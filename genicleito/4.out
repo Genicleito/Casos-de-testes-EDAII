@@ -2,7 +2,7 @@ chave nao encontrada: 11
 chave nao encontrada: 19
 chave nao encontrada: 27
 chave nao encontrada: 25
--nan
+-1.0
 chave nao encontrada: 11
 chave nao encontrada: 0
 0: vazio
@@ -83,8 +83,10 @@ chave nao encontrada: 25
 8: 8 taq 18
 9: 7 ljmijkojswnen 23
 10: 9 hjudxhibbixqagymalj 46
+chave: 13
 lznsqcxhtqxdmqkhs
 24
+chave: 19
 raqqrndsusovlkfc
 6
 1.8
@@ -178,6 +180,7 @@ chave nao encontrada: 10
 10: 9 hjudxhibbixqagymalj 46
 2.1
 chave nao encontrada: 25
+chave: 8
 taq
 18
 2.1
@@ -195,6 +198,7 @@ taq
 2.1
 2.1
 chave ja existente: 6
+chave: 8
 taq
 18
 chave nao encontrada: 25
@@ -428,6 +432,7 @@ chave ja existente: 8
 9: 7 ljmijkojswnen 23
 10: 9 hjudxhibbixqagymalj 46
 3.8
+chave: 8
 taq
 18
 3.8
@@ -555,6 +560,7 @@ chave nao encontrada: 30
 chave ja existente: 28
 chave ja existente: 28
 chave nao encontrada: 21
+chave: 28
 laenupmdwqnlhfpkcme
 37
 chave nao encontrada: 26
@@ -589,6 +595,7 @@ chave nao encontrada: 24
 8: 30 dlkgsyw 15
 9: 7 ljmijkojswnen 23
 10: vazio
+chave: 30
 dlkgsyw
 15
 0: vazio
@@ -706,6 +713,7 @@ chave ja existente: 10
 8: 30 dlkgsyw 15
 9: vazio
 10: 10 knupkbbbdpligvcyf 6
+chave: 27
 slezcjbhcgvtjbptjmjy
 20
 0: vazio
@@ -815,6 +823,7 @@ chave nao encontrada: 8
 9: 14 wmljg 54
 10: 10 knupkbbbdpligvcyf 6
 chave nao encontrada: 25
+chave: 6
 zhkolbqhc
 64
 3.3
@@ -914,6 +923,7 @@ chave nao encontrada: 1
 3.1
 3.1
 3.1
+chave: 2
 pkbfadjaqhcf
 24
 0: 5 fbeixrawmsiamza 51
@@ -939,6 +949,7 @@ pkbfadjaqhcf
 9: 14 wmljg 54
 10: 10 knupkbbbdpligvcyf 6
 chave ja existente: 5
+chave: 22
 ylugvuaxdltj
 38
 chave ja existente: 27
@@ -1085,6 +1096,7 @@ chave nao encontrada: 9
 9: 14 wmljg 54
 10: 10 knupkbbbdpligvcyf 6
 3.6
+chave: 10
 knupkbbbdpligvcyf
 6
 0: 5 fbeixrawmsiamza 51
@@ -1172,6 +1184,7 @@ chave nao encontrada: 7
 8: 30 dlkgsyw 15
 9: 14 wmljg 54
 10: 10 knupkbbbdpligvcyf 6
+chave: 10
 knupkbbbdpligvcyf
 6
 3.8
@@ -1307,6 +1320,7 @@ chave ja existente: 14
 chave nao encontrada: 4
 chave ja existente: 14
 chave nao encontrada: 1
+chave: 19
 hemzdjhlhkzhs
 32
 chave nao encontrada: 16
@@ -1355,10 +1369,13 @@ chave ja existente: 2
 5.7
 chave nao encontrada: 29
 chave ja existente: 28
+chave: 11
 xz
 8
+chave: 3
 bjsfahfwrffjmgxy
 16
+chave: 3
 bjsfahfwrffjmgxy
 16
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1386,6 +1403,7 @@ chave ja existente: 28
 8: 11 xz 8
 9: 14 wmljg 54
 10: 23 qbly 29
+chave: 27
 slezcjbhcgvtjbptjmjy
 20
 chave ja existente: 27
@@ -1413,6 +1431,7 @@ chave ja existente: 27
 8: 11 xz 8
 9: 14 wmljg 54
 10: 23 qbly 29
+chave: 27
 slezcjbhcgvtjbptjmjy
 20
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1539,6 +1558,7 @@ chave nao encontrada: 25
 8: 11 xz 8
 9: 14 byhegmmdopjiu 1
 10: 7 hdycobnimartzs 11
+chave: 7
 hdycobnimartzs
 11
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1611,6 +1631,7 @@ chave nao encontrada: 4
 5.7
 5.7
 chave ja existente: 6
+chave: 6
 zhkolbqhc
 64
 chave ja existente: 22
@@ -1642,6 +1663,7 @@ chave nao encontrada: 26
 9: 14 byhegmmdopjiu 1
 10: 24 uisbzfijnhvsb 30
 chave nao encontrada: 30
+chave: 21
 ewtjzzynbnqld
 49
 5.6
@@ -1673,6 +1695,7 @@ chave nao encontrada: 8
 9: 14 byhegmmdopjiu 1
 10: 24 uisbzfijnhvsb 30
 chave nao encontrada: 18
+chave: 13
 wtxxartvddvxh
 10
 5.6
@@ -1740,9 +1763,11 @@ chave ja existente: 3
 10: 24 uisbzfijnhvsb 30
 chave ja existente: 1
 5.6
+chave: 14
 byhegmmdopjiu
 1
 chave nao encontrada: 12
+chave: 14
 byhegmmdopjiu
 1
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1768,6 +1793,7 @@ byhegmmdopjiu
 8: 11 xz 8
 9: 14 byhegmmdopjiu 1
 10: 24 uisbzfijnhvsb 30
+chave: 13
 wtxxartvddvxh
 10
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1812,6 +1838,7 @@ chave ja existente: 14
 chave nao encontrada: 12
 chave ja existente: 14
 chave nao encontrada: 9
+chave: 11
 xz
 8
 chave nao encontrada: 23
@@ -1838,6 +1865,7 @@ chave nao encontrada: 23
 8: 11 xz 8
 9: 14 byhegmmdopjiu 1
 10: 24 uisbzfijnhvsb 30
+chave: 22
 ylugvuaxdltj
 38
 chave nao encontrada: 18
@@ -1852,6 +1880,7 @@ chave nao encontrada: 18
 8: 11 xz 8
 9: 14 byhegmmdopjiu 1
 10: 24 uisbzfijnhvsb 30
+chave: 19
 hemzdjhlhkzhs
 32
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1909,6 +1938,7 @@ chave nao encontrada: 4
 5.6
 5.6
 chave nao encontrada: 10
+chave: 28
 foxwtwwzasaflfhzcu
 62
 5.1
@@ -1923,6 +1953,7 @@ foxwtwwzasaflfhzcu
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 24 uisbzfijnhvsb 30
+chave: 6
 zhkolbqhc
 64
 chave nao encontrada: 16
@@ -1962,9 +1993,11 @@ chave nao encontrada: 16
 10: vazio
 chave ja existente: 14
 chave nao encontrada: 8
+chave: 22
 ylugvuaxdltj
 38
 chave nao encontrada: 16
+chave: 19
 hemzdjhlhkzhs
 32
 0: 28 foxwtwwzasaflfhzcu 62
@@ -1979,6 +2012,7 @@ hemzdjhlhkzhs
 9: 14 byhegmmdopjiu 1
 10: vazio
 5.1
+chave: 1
 hglf
 5
 chave nao encontrada: 11
@@ -2030,9 +2064,11 @@ chave nao encontrada: 2
 10: 15 afocracw 6
 chave ja existente: 22
 5.3
+chave: 14
 byhegmmdopjiu
 1
 chave nao encontrada: 30
+chave: 26
 ybxfglbvicmhmjt
 56
 5.3
@@ -2098,6 +2134,7 @@ chave ja existente: 3
 10: 15 afocracw 6
 chave nao encontrada: 25
 5.3
+chave: 1
 hglf
 5
 5.3
@@ -2175,6 +2212,7 @@ chave nao encontrada: 9
 5.3
 chave nao encontrada: 2
 5.1
+chave: 19
 hemzdjhlhkzhs
 32
 0: 28 foxwtwwzasaflfhzcu 62
@@ -2188,6 +2226,7 @@ hemzdjhlhkzhs
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: vazio
+chave: 13
 wtxxartvddvxh
 10
 chave nao encontrada: 17
@@ -2205,6 +2244,7 @@ chave nao encontrada: 10
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
 chave ja existente: 14
+chave: 6
 zhkolbqhc
 64
 0: 28 foxwtwwzasaflfhzcu 62
@@ -2242,13 +2282,16 @@ zhkolbqhc
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 21
 ewtjzzynbnqld
 49
 4.9
 4.9
+chave: 11
 ssnyjq
 44
 chave nao encontrada: 17
+chave: 19
 hemzdjhlhkzhs
 32
 chave nao encontrada: 25
@@ -2263,6 +2306,7 @@ chave nao encontrada: 25
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 26
 ybxfglbvicmhmjt
 56
 4.9
@@ -2305,6 +2349,7 @@ chave ja existente: 26
 4.9
 chave nao encontrada: 29
 chave nao encontrada: 5
+chave: 30
 gcyfsypbnqmp
 4
 chave nao encontrada: 15
@@ -2335,6 +2380,7 @@ chave nao encontrada: 5
 10: 30 gcyfsypbnqmp 4
 chave nao encontrada: 4
 chave nao encontrada: 16
+chave: 13
 wtxxartvddvxh
 10
 chave nao encontrada: 12
@@ -2437,6 +2483,7 @@ chave nao encontrada: 7
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
 4.9
+chave: 26
 ybxfglbvicmhmjt
 56
 4.9
@@ -2511,6 +2558,7 @@ chave nao encontrada: 10
 4.9
 4.9
 chave ja existente: 21
+chave: 28
 foxwtwwzasaflfhzcu
 62
 4.9
@@ -2736,6 +2784,7 @@ chave nao encontrada: 15
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 19
 hemzdjhlhkzhs
 32
 0: 28 foxwtwwzasaflfhzcu 62
@@ -2833,6 +2882,7 @@ chave nao encontrada: 18
 10: 30 gcyfsypbnqmp 4
 4.5
 4.5
+chave: 6
 zhkolbqhc
 64
 4.5
@@ -2908,6 +2958,7 @@ chave nao encontrada: 5
 10: 30 gcyfsypbnqmp 4
 3.3
 3.5
+chave: 25
 i
 14
 0: 0 jcufrt 10
@@ -2944,6 +2995,7 @@ chave ja existente: 13
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 22
 ylugvuaxdltj
 38
 chave nao encontrada: 18
@@ -2970,6 +3022,7 @@ chave nao encontrada: 16
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 13
 wtxxartvddvxh
 10
 3.7
@@ -3101,6 +3154,7 @@ chave nao encontrada: 21
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
 4.1
+chave: 10
 b
 35
 0: 0 jcufrt 10
@@ -3114,6 +3168,7 @@ b
 8: 26 ybxfglbvicmhmjt 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 14
 byhegmmdopjiu
 1
 chave nao encontrada: 29
@@ -3183,6 +3238,7 @@ chave nao encontrada: 18
 4.5
 chave nao encontrada: 1
 4.5
+chave: 0
 jcufrt
 10
 4.5
@@ -3305,6 +3361,7 @@ chave nao encontrada: 17
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
 5.0
+chave: 11
 ssnyjq
 44
 chave nao encontrada: 28
@@ -3320,6 +3377,7 @@ chave nao encontrada: 28
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
 chave nao encontrada: 4
+chave: 13
 wtxxartvddvxh
 10
 0: 0 bmmmxzielmhfvb 35
@@ -3352,6 +3410,7 @@ chave nao encontrada: 4
 5.0
 chave nao encontrada: 18
 chave ja existente: 21
+chave: 25
 iaeumdjj
 50
 chave ja existente: 10
@@ -3360,6 +3419,7 @@ chave nao encontrada: 29
 5.4
 5.4
 5.4
+chave: 14
 byhegmmdopjiu
 1
 0: 0 bmmmxzielmhfvb 35
@@ -3486,6 +3546,7 @@ chave nao encontrada: 28
 10: 30 gcyfsypbnqmp 4
 chave nao encontrada: 9
 chave nao encontrada: 15
+chave: 5
 axdhzwgd
 50
 5.5
@@ -3652,6 +3713,7 @@ chave nao encontrada: 23
 8: 12 gfiqsimsrhtviddnphs 56
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
+chave: 21
 vywdupxslexfh
 43
 chave nao encontrada: 25
@@ -3739,6 +3801,7 @@ chave nao encontrada: 17
 chave nao encontrada: 9
 chave nao encontrada: 6
 chave nao encontrada: 29
+chave: 28
 nsmoungwcvexvrtdljd
 35
 4.9
@@ -3832,6 +3895,7 @@ chave nao encontrada: 27
 9: 14 byhegmmdopjiu 1
 10: 30 gcyfsypbnqmp 4
 5.1
+chave: 28
 nsmoungwcvexvrtdljd
 35
 chave nao encontrada: 16
@@ -3886,6 +3950,7 @@ chave ja existente: 22
 chave nao encontrada: 25
 chave nao encontrada: 7
 5.1
+chave: 11
 ssnyjq
 44
 chave nao encontrada: 8
@@ -3908,6 +3973,7 @@ chave nao encontrada: 16
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 30 gcyfsypbnqmp 4
+chave: 22
 nsrlu
 24
 0: 0 bmmmxzielmhfvb 35
@@ -3964,6 +4030,7 @@ chave nao encontrada: 29
 chave nao encontrada: 14
 chave nao encontrada: 3
 5.0
+chave: 19
 bbdr
 33
 0: 0 bmmmxzielmhfvb 35
@@ -4093,6 +4160,7 @@ chave nao encontrada: 7
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 30 gcyfsypbnqmp 4
+chave: 4
 zsjefbqnh
 4
 5.5
@@ -4124,8 +4192,10 @@ chave nao encontrada: 8
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: vazio
+chave: 5
 axdhzwgd
 50
+chave: 21
 eyxndpezxtsisnazm
 66
 5.8
@@ -4137,6 +4207,7 @@ chave nao encontrada: 14
 chave ja existente: 12
 chave ja existente: 23
 5.6
+chave: 0
 bmmmxzielmhfvb
 35
 0: 0 bmmmxzielmhfvb 35
@@ -4150,6 +4221,7 @@ bmmmxzielmhfvb
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: vazio
+chave: 0
 bmmmxzielmhfvb
 35
 chave nao encontrada: 16
@@ -4201,6 +4273,7 @@ chave ja existente: 13
 chave nao encontrada: 10
 5.5
 chave nao encontrada: 14
+chave: 5
 axdhzwgd
 50
 0: 0 bmmmxzielmhfvb 35
@@ -4404,6 +4477,7 @@ chave nao encontrada: 30
 10: 19 iyggsphmyjhhnjuka 14
 5.3
 chave nao encontrada: 2
+chave: 12
 gfiqsimsrhtviddnphs
 56
 5.3
@@ -4419,6 +4493,7 @@ gfiqsimsrhtviddnphs
 9: 4 zsjefbqnh 4
 10: 19 iyggsphmyjhhnjuka 14
 chave ja existente: 4
+chave: 4
 zsjefbqnh
 4
 0: 0 bmmmxzielmhfvb 35
@@ -4432,9 +4507,11 @@ zsjefbqnh
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 19 iyggsphmyjhhnjuka 14
+chave: 13
 wtxxartvddvxh
 10
 chave nao encontrada: 1
+chave: 7
 mwivybzcjgqq
 0
 5.3
@@ -4454,8 +4531,10 @@ mwivybzcjgqq
 5.3
 5.3
 chave nao encontrada: 25
+chave: 5
 axdhzwgd
 50
+chave: 23
 wx
 26
 0: 0 bmmmxzielmhfvb 35
@@ -4551,9 +4630,11 @@ chave nao encontrada: 6
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 19 iyggsphmyjhhnjuka 14
+chave: 12
 gfiqsimsrhtviddnphs
 56
 chave nao encontrada: 20
+chave: 3
 engecydqymtzveexcrvk
 13
 5.2
@@ -4600,6 +4681,7 @@ chave nao encontrada: 14
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 19 iyggsphmyjhhnjuka 14
+chave: 4
 zsjefbqnh
 4
 5.2
@@ -4610,6 +4692,7 @@ chave nao encontrada: 3
 5.2
 5.7
 chave nao encontrada: 13
+chave: 19
 iyggsphmyjhhnjuka
 14
 chave nao encontrada: 14
@@ -4640,6 +4723,7 @@ chave nao encontrada: 13
 10: 19 iyggsphmyjhhnjuka 14
 6.5
 chave nao encontrada: 26
+chave: 4
 zsjefbqnh
 4
 6.5
@@ -4778,6 +4862,7 @@ chave nao encontrada: 2
 9: 4 zsjefbqnh 4
 10: 19 iyggsphmyjhhnjuka 14
 chave nao encontrada: 16
+chave: 4
 zsjefbqnh
 4
 0: 15 m 58
@@ -4892,6 +4977,7 @@ chave nao encontrada: 6
 chave nao encontrada: 25
 6.8
 chave nao encontrada: 26
+chave: 27
 neuyan
 58
 chave ja existente: 10
@@ -4944,6 +5030,7 @@ chave nao encontrada: 24
 9: 4 zsjefbqnh 4
 10: 19 iyggsphmyjhhnjuka 14
 6.8
+chave: 27
 neuyan
 58
 chave nao encontrada: 23
@@ -4966,6 +5053,7 @@ chave nao encontrada: 29
 chave nao encontrada: 21
 chave ja existente: 12
 7.2
+chave: 9
 kayurzhussgnpvttsssw
 54
 chave ja existente: 19
@@ -5065,6 +5153,7 @@ chave nao encontrada: 5
 7.8
 7.8
 7.8
+chave: 30
 imidritzmlrdnxakej
 38
 chave nao encontrada: 29
@@ -5166,6 +5255,7 @@ chave nao encontrada: 21
 chave nao encontrada: 26
 chave nao encontrada: 5
 chave nao encontrada: 8
+chave: 27
 neuyan
 58
 0: 24 veszn 4
@@ -5303,6 +5393,7 @@ chave nao encontrada: 17
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
 7.0
+chave: 12
 gfiqsimsrhtviddnphs
 56
 0: 24 veszn 4
@@ -5342,6 +5433,7 @@ chave nao encontrada: 21
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
+chave: 12
 gfiqsimsrhtviddnphs
 56
 0: 24 veszn 4
@@ -5434,6 +5526,7 @@ chave ja existente: 25
 7.2
 chave nao encontrada: 29
 chave nao encontrada: 1
+chave: 12
 gfiqsimsrhtviddnphs
 56
 7.2
@@ -5441,6 +5534,7 @@ gfiqsimsrhtviddnphs
 7.2
 7.2
 chave nao encontrada: 22
+chave: 13
 zhibdr
 17
 0: 24 veszn 4
@@ -5495,6 +5589,7 @@ chave nao encontrada: 11
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
 7.2
+chave: 25
 qurjvtfvukjte
 8
 chave ja existente: 30
@@ -5523,6 +5618,7 @@ chave nao encontrada: 23
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
 chave nao encontrada: 23
+chave: 30
 imidritzmlrdnxakej
 38
 0: 24 veszn 4
@@ -5620,6 +5716,7 @@ chave ja existente: 24
 10: 25 qurjvtfvukjte 8
 chave nao encontrada: 26
 chave nao encontrada: 2
+chave: 24
 veszn
 4
 0: 24 veszn 4
@@ -5645,6 +5742,7 @@ veszn
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
+chave: 9
 feeciuxh
 27
 0: 24 veszn 4
@@ -5658,6 +5756,7 @@ feeciuxh
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
+chave: 25
 qurjvtfvukjte
 8
 chave nao encontrada: 8
@@ -5723,6 +5822,7 @@ chave nao encontrada: 18
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
 chave ja existente: 12
+chave: 14
 zpuarpnuhtcbxbmn
 51
 0: 24 veszn 4
@@ -5959,9 +6059,11 @@ chave ja existente: 28
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
+chave: 25
 qurjvtfvukjte
 8
 7.0
+chave: 4
 zsjefbqnh
 4
 7.0
@@ -6044,6 +6146,7 @@ chave nao encontrada: 15
 chave nao encontrada: 8
 chave nao encontrada: 18
 chave nao encontrada: 18
+chave: 16
 v
 14
 0: 24 veszn 4
@@ -6073,9 +6176,11 @@ chave nao encontrada: 8
 7.2
 chave nao encontrada: 6
 chave nao encontrada: 22
+chave: 29
 wxpmxmhgofla
 21
 7.2
+chave: 30
 imidritzmlrdnxakej
 38
 7.6
@@ -6162,6 +6267,7 @@ chave ja existente: 24
 10: 25 qurjvtfvukjte 8
 6.7
 chave nao encontrada: 6
+chave: 18
 f
 70
 chave nao encontrada: 1
@@ -6192,6 +6298,7 @@ chave nao encontrada: 28
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 25 qurjvtfvukjte 8
+chave: 26
 x
 12
 6.7
@@ -6447,6 +6554,7 @@ chave nao encontrada: 0
 4.4
 4.2
 chave nao encontrada: 14
+chave: 29
 wxpmxmhgofla
 21
 chave ja existente: 8
@@ -6556,6 +6664,7 @@ chave nao encontrada: 25
 4.0
 chave nao encontrada: 3
 chave nao encontrada: 2
+chave: 29
 wxpmxmhgofla
 21
 chave nao encontrada: 5
@@ -6620,9 +6729,11 @@ chave ja existente: 17
 9: 4 zsjefbqnh 4
 10: 8 dvnos 26
 chave nao encontrada: 1
+chave: 2
 glr
 2
 3.9
+chave: 26
 x
 12
 0: 22 bbaycyffnmxbzevnjr 4
@@ -6674,12 +6785,16 @@ chave nao encontrada: 5
 9: 4 zsjefbqnh 4
 10: 8 dvnos 26
 chave nao encontrada: 14
+chave: 17
 i
 52
+chave: 22
 bbaycyffnmxbzevnjr
 4
+chave: 26
 x
 12
+chave: 12
 gfiqsimsrhtviddnphs
 56
 3.9
@@ -6813,6 +6928,7 @@ chave nao encontrada: 30
 3.9
 chave nao encontrada: 6
 chave ja existente: 13
+chave: 22
 bbaycyffnmxbzevnjr
 4
 0: 22 bbaycyffnmxbzevnjr 4
@@ -7005,6 +7121,7 @@ chave ja existente: 17
 9: 4 zsjefbqnh 4
 10: 8 dvnos 26
 3.7
+chave: 8
 dvnos
 26
 0: 22 bbaycyffnmxbzevnjr 4
@@ -7086,6 +7203,7 @@ chave nao encontrada: 11
 9: 4 zsjefbqnh 4
 10: 8 dvnos 26
 4.5
+chave: 29
 wxpmxmhgofla
 21
 0: 22 bbaycyffnmxbzevnjr 4
@@ -7175,8 +7293,10 @@ chave nao encontrada: 14
 chave nao encontrada: 23
 chave ja existente: 9
 chave ja existente: 13
+chave: 17
 i
 52
+chave: 29
 wxpmxmhgofla
 21
 chave nao encontrada: 16
@@ -7193,6 +7313,7 @@ chave nao encontrada: 23
 8: 12 gfiqsimsrhtviddnphs 56
 9: 4 zsjefbqnh 4
 10: 8 dvnos 26
+chave: 17
 i
 52
 4.5
@@ -7330,6 +7451,7 @@ chave nao encontrada: 15
 9: 4 zsjefbqnh 4
 10: 8 dvnos 26
 chave ja existente: 13
+chave: 18
 gep
 33
 chave nao encontrada: 19
@@ -7543,6 +7665,7 @@ chave nao encontrada: 15
 9: 9 ktndedhgeedhmjweres 22
 10: 5 uuxedtdfkoefhhgnti 66
 chave nao encontrada: 12
+chave: 29
 wxpmxmhgofla
 21
 chave nao encontrada: 16
@@ -7581,6 +7704,7 @@ chave nao encontrada: 16
 9: vazio
 10: 5 uuxedtdfkoefhhgnti 66
 3.6
+chave: 14
 ljofsrgcizxnjpb
 41
 0: 20 bhs 11
@@ -7657,6 +7781,7 @@ chave nao encontrada: 11
 9: vazio
 10: 5 uuxedtdfkoefhhgnti 66
 chave nao encontrada: 11
+chave: 14
 ljofsrgcizxnjpb
 41
 chave ja existente: 3
@@ -7684,6 +7809,7 @@ chave nao encontrada: 12
 8: 19 r 51
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
+chave: 26
 g
 7
 chave ja existente: 26
@@ -7715,10 +7841,13 @@ chave ja existente: 19
 10: 5 uuxedtdfkoefhhgnti 66
 4.1
 4.1
+chave: 13
 zhibdr
 17
+chave: 1
 lgpt
 56
+chave: 13
 zhibdr
 17
 4.1
@@ -7769,6 +7898,7 @@ zhibdr
 4.1
 chave ja existente: 14
 chave nao encontrada: 2
+chave: 13
 zhibdr
 17
 4.1
@@ -7816,6 +7946,7 @@ chave nao encontrada: 9
 10: 5 uuxedtdfkoefhhgnti 66
 4.1
 chave ja existente: 5
+chave: 22
 zmfudkseahyfr
 28
 0: 22 zmfudkseahyfr 28
@@ -7870,6 +8001,7 @@ chave ja existente: 14
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
 chave ja existente: 5
+chave: 5
 uuxedtdfkoefhhgnti
 66
 chave nao encontrada: 20
@@ -7913,6 +8045,7 @@ chave ja existente: 19
 8: 19 r 51
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
+chave: 10
 uaggoezt
 58
 chave nao encontrada: 8
@@ -8090,6 +8223,7 @@ chave nao encontrada: 21
 4.6
 chave nao encontrada: 24
 4.7
+chave: 10
 uaggoezt
 58
 4.0
@@ -8155,6 +8289,7 @@ chave ja existente: 13
 10: 5 uuxedtdfkoefhhgnti 66
 4.0
 chave nao encontrada: 4
+chave: 6
 ablipgusvh
 19
 chave nao encontrada: 16
@@ -8283,6 +8418,7 @@ chave nao encontrada: 28
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
 4.5
+chave: 6
 ablipgusvh
 19
 0: 22 zmfudkseahyfr 28
@@ -8399,6 +8535,7 @@ chave ja existente: 3
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
 4.6
+chave: 5
 uuxedtdfkoefhhgnti
 66
 0: 22 zmfudkseahyfr 28
@@ -8442,6 +8579,7 @@ chave nao encontrada: 11
 chave nao encontrada: 9
 chave nao encontrada: 9
 chave nao encontrada: 8
+chave: 3
 hpr
 64
 chave nao encontrada: 18
@@ -8637,6 +8775,7 @@ chave ja existente: 5
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
 4.4
+chave: 6
 ablipgusvh
 19
 chave nao encontrada: 13
@@ -8647,6 +8786,7 @@ chave nao encontrada: 27
 chave nao encontrada: 8
 chave nao encontrada: 4
 4.4
+chave: 5
 uuxedtdfkoefhhgnti
 66
 0: 22 zmfudkseahyfr 28
@@ -8712,10 +8852,12 @@ chave nao encontrada: 16
 8: 19 r 51
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
+chave: 7
 qecbhyngmq
 65
 chave nao encontrada: 9
 3.8
+chave: 5
 uuxedtdfkoefhhgnti
 66
 chave nao encontrada: 16
@@ -8794,6 +8936,7 @@ chave nao encontrada: 17
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
 chave ja existente: 28
+chave: 7
 qecbhyngmq
 65
 0: 22 zmfudkseahyfr 28
@@ -8887,6 +9030,7 @@ chave nao encontrada: 4
 8: vazio
 9: 3 hpr 64
 10: 5 uuxedtdfkoefhhgnti 66
+chave: 20
 dluphlwulwswguogcmg
 8
 0: 22 zmfudkseahyfr 28
@@ -8943,6 +9087,7 @@ chave nao encontrada: 10
 chave nao encontrada: 8
 3.4
 chave nao encontrada: 23
+chave: 25
 dcmvlkuhbjhmharlws
 28
 3.4
@@ -8982,10 +9127,13 @@ chave nao encontrada: 16
 9: 25 dcmvlkuhbjhmharlws 28
 10: 30 kpqabyd 35
 chave nao encontrada: 8
+chave: 15
 zqzfrsejsqk
 3
+chave: 25
 dcmvlkuhbjhmharlws
 28
+chave: 8
 cfgvxmfvtnneesqxpgye
 8
 chave nao encontrada: 13
@@ -9016,6 +9164,7 @@ chave nao encontrada: 9
 3.5
 3.5
 chave nao encontrada: 27
+chave: 22
 zmfudkseahyfr
 28
 chave nao encontrada: 12
@@ -9032,6 +9181,7 @@ chave nao encontrada: 17
 8: 15 zqzfrsejsqk 3
 9: 25 dcmvlkuhbjhmharlws 28
 10: 30 kpqabyd 35
+chave: 15
 zqzfrsejsqk
 3
 0: 22 zmfudkseahyfr 28
@@ -9111,6 +9261,7 @@ chave nao encontrada: 3
 chave nao encontrada: 29
 3.0
 chave nao encontrada: 18
+chave: 25
 dcmvlkuhbjhmharlws
 28
 chave nao encontrada: 29
@@ -9139,6 +9290,7 @@ chave nao encontrada: 12
 9: 25 dcmvlkuhbjhmharlws 28
 10: 30 kpqabyd 35
 3.0
+chave: 15
 zqzfrsejsqk
 3
 0: 22 zmfudkseahyfr 28
@@ -9194,6 +9346,7 @@ chave nao encontrada: 13
 9: 25 dcmvlkuhbjhmharlws 28
 10: vazio
 3.1
+chave: 29
 asqiyiwq
 64
 0: 22 zmfudkseahyfr 28
@@ -9479,6 +9632,7 @@ chave nao encontrada: 9
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 3.5
+chave: 15
 zqzfrsejsqk
 3
 3.5
@@ -9537,6 +9691,7 @@ chave nao encontrada: 21
 3.5
 chave nao encontrada: 11
 3.5
+chave: 6
 ablipgusvh
 19
 0: 22 zmfudkseahyfr 28
@@ -9553,6 +9708,7 @@ ablipgusvh
 chave nao encontrada: 23
 chave nao encontrada: 10
 chave nao encontrada: 2
+chave: 22
 zmfudkseahyfr
 28
 0: 22 zmfudkseahyfr 28
@@ -9589,6 +9745,7 @@ zmfudkseahyfr
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 15
 zqzfrsejsqk
 3
 chave nao encontrada: 0
@@ -9604,8 +9761,10 @@ chave nao encontrada: 0
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 6
 ablipgusvh
 19
+chave: 26
 crb
 34
 0: 22 zmfudkseahyfr 28
@@ -9619,6 +9778,7 @@ crb
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 27
 igdifckbrliv
 28
 0: 22 zmfudkseahyfr 28
@@ -9694,6 +9854,7 @@ chave nao encontrada: 12
 10: 3 tqjralljwwopqbcodg 45
 chave nao encontrada: 2
 3.5
+chave: 8
 cfgvxmfvtnneesqxpgye
 8
 3.5
@@ -9756,6 +9917,7 @@ chave nao encontrada: 12
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 3.9
+chave: 8
 cfgvxmfvtnneesqxpgye
 8
 chave ja existente: 25
@@ -9792,6 +9954,7 @@ chave nao encontrada: 12
 10: 3 tqjralljwwopqbcodg 45
 4.1
 3.8
+chave: 15
 zqzfrsejsqk
 3
 0: 18 gobbilltgazcm 39
@@ -9805,6 +9968,7 @@ zqzfrsejsqk
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 18
 gobbilltgazcm
 39
 3.8
@@ -9839,6 +10003,7 @@ chave ja existente: 15
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 chave nao encontrada: 10
+chave: 25
 cprsdbbbbfjlvzfyo
 11
 3.8
@@ -9867,6 +10032,7 @@ chave ja existente: 29
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 25
 cprsdbbbbfjlvzfyo
 11
 0: 18 gobbilltgazcm 39
@@ -9880,6 +10046,7 @@ cprsdbbbbfjlvzfyo
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 29
 asqiyiwq
 64
 0: 18 gobbilltgazcm 39
@@ -9973,11 +10140,13 @@ chave nao encontrada: 14
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 4.8
+chave: 29
 asqiyiwq
 64
 chave nao encontrada: 10
 4.8
 4.8
+chave: 20
 dluphlwulwswguogcmg
 8
 4.8
@@ -10006,6 +10175,7 @@ chave nao encontrada: 18
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 20
 dluphlwulwswguogcmg
 8
 0: 16 gsrnyzowclolwemj 53
@@ -10149,6 +10319,7 @@ chave nao encontrada: 23
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 3
 tqjralljwwopqbcodg
 45
 5.2
@@ -10197,6 +10368,7 @@ chave nao encontrada: 17
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 5.2
+chave: 3
 tqjralljwwopqbcodg
 45
 0: 16 gsrnyzowclolwemj 53
@@ -10214,6 +10386,7 @@ tqjralljwwopqbcodg
 chave nao encontrada: 29
 4.8
 4.8
+chave: 15
 zqzfrsejsqk
 3
 0: 16 gsrnyzowclolwemj 53
@@ -10238,6 +10411,7 @@ zqzfrsejsqk
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 9
 dukfdxmhaplkgqaa
 23
 chave nao encontrada: 11
@@ -10576,6 +10750,7 @@ chave nao encontrada: 8
 8: 15 zqzfrsejsqk 3
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
+chave: 26
 crb
 34
 chave nao encontrada: 24
@@ -10597,6 +10772,7 @@ chave nao encontrada: 1
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 4.5
+chave: 21
 bhybaarselhuzubs
 31
 chave nao encontrada: 13
@@ -10639,6 +10815,7 @@ chave ja existente: 9
 10: 3 tqjralljwwopqbcodg 45
 4.5
 4.5
+chave: 26
 crb
 34
 0: 0 d 60
@@ -10726,6 +10903,7 @@ chave nao encontrada: 1
 9: 25 cprsdbbbbfjlvzfyo 11
 10: 3 tqjralljwwopqbcodg 45
 chave nao encontrada: 19
+chave: 26
 crb
 34
 chave nao encontrada: 11
@@ -10803,6 +10981,7 @@ chave nao encontrada: 19
 8: vazio
 9: 10 e 56
 10: 3 tqjralljwwopqbcodg 45
+chave: 30
 zhxjkjzg
 23
 0: 0 d 60
@@ -10875,12 +11054,15 @@ chave nao encontrada: 12
 9: 10 e 56
 10: 3 tqjralljwwopqbcodg 45
 4.9
+chave: 3
 tqjralljwwopqbcodg
 45
 4.9
+chave: 25
 hvlrgljkzvrp
 30
 5.0
+chave: 23
 wmejfljqhyrxcqgsy
 33
 0: 0 d 60
@@ -10906,6 +11088,7 @@ wmejfljqhyrxcqgsy
 9: 10 e 56
 10: 3 tqjralljwwopqbcodg 45
 5.0
+chave: 27
 uwjtqkbieibrcej
 2
 chave nao encontrada: 22
@@ -10914,6 +11097,7 @@ chave nao encontrada: 14
 chave ja existente: 24
 chave nao encontrada: 20
 4.9
+chave: 23
 wmejfljqhyrxcqgsy
 33
 chave nao encontrada: 17
@@ -11100,6 +11284,7 @@ chave nao encontrada: 15
 8: 14 fwlsd 59
 9: 10 e 56
 10: 3 tqjralljwwopqbcodg 45
+chave: 5
 cgcrqszr
 66
 0: 0 d 60
@@ -11129,6 +11314,7 @@ cgcrqszr
 10: 3 tqjralljwwopqbcodg 45
 4.2
 chave nao encontrada: 20
+chave: 0
 d
 60
 0: 0 d 60
@@ -11227,11 +11413,14 @@ chave nao encontrada: 2
 8: 14 fwlsd 59
 9: 10 e 56
 10: 3 tqjralljwwopqbcodg 45
+chave: 14
 fwlsd
 59
+chave: 27
 uwjtqkbieibrcej
 2
 chave nao encontrada: 8
+chave: 22
 ewsl
 44
 chave ja existente: 10
@@ -11417,6 +11606,7 @@ chave nao encontrada: 17
 9: vazio
 10: 4 wrtyvsjqbypuurzppu 30
 2.3
+chave: 22
 ewsl
 44
 0: 0 d 60
@@ -11453,6 +11643,7 @@ ewsl
 9: vazio
 10: 4 wrtyvsjqbypuurzppu 30
 2.3
+chave: 0
 d
 60
 0: 0 d 60
@@ -11483,6 +11674,7 @@ d
 9: vazio
 10: 4 wrtyvsjqbypuurzppu 30
 chave nao encontrada: 19
+chave: 29
 ydqfpzpproirtbrr
 15
 0: 0 d 60
@@ -11508,6 +11700,7 @@ chave nao encontrada: 8
 8: 30 luqqnxvdwck 68
 9: 18 lpngizcnhhcrucyvti 29
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 30
 luqqnxvdwck
 68
 2.6
@@ -11584,11 +11777,13 @@ chave nao encontrada: 8
 8: 30 luqqnxvdwck 68
 9: 18 lpngizcnhhcrucyvti 29
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 22
 ewsl
 44
 chave ja existente: 10
 chave nao encontrada: 15
 chave nao encontrada: 19
+chave: 9
 xnmorguhsitbqpmwnzh
 45
 0: 0 d 60
@@ -11685,9 +11880,11 @@ chave nao encontrada: 8
 3.4
 3.4
 chave nao encontrada: 13
+chave: 29
 ydqfpzpproirtbrr
 15
 chave ja existente: 30
+chave: 27
 uwjtqkbieibrcej
 2
 3.4
@@ -11717,6 +11914,7 @@ chave nao encontrada: 21
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 3.7
+chave: 22
 ewsl
 44
 0: 0 d 60
@@ -11745,9 +11943,11 @@ chave ja existente: 18
 10: 4 wrtyvsjqbypuurzppu 30
 3.7
 chave nao encontrada: 16
+chave: 0
 d
 60
 chave nao encontrada: 20
+chave: 4
 wrtyvsjqbypuurzppu
 30
 0: 0 d 60
@@ -11814,11 +12014,13 @@ chave ja existente: 3
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 chave nao encontrada: 19
+chave: 0
 d
 60
 3.5
 3.5
 3.5
+chave: 18
 bhzsfboygcf
 66
 chave ja existente: 22
@@ -11847,10 +12049,13 @@ chave ja existente: 22
 3.5
 3.5
 chave nao encontrada: 24
+chave: 29
 ydqfpzpproirtbrr
 15
+chave: 18
 bhzsfboygcf
 66
+chave: 30
 luqqnxvdwck
 68
 0: 0 d 60
@@ -11936,6 +12141,7 @@ chave ja existente: 4
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 3.5
+chave: 0
 d
 60
 0: 0 d 60
@@ -11954,13 +12160,16 @@ chave nao encontrada: 19
 3.7
 chave nao encontrada: 6
 chave nao encontrada: 27
+chave: 19
 npysdekxmbn
 15
 chave ja existente: 29
 chave nao encontrada: 21
 chave nao encontrada: 15
+chave: 3
 suofefobjakiwgrnvh
 55
+chave: 5
 cgcrqszr
 66
 3.7
@@ -12044,6 +12253,7 @@ chave nao encontrada: 26
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 chave ja existente: 22
+chave: 5
 cgcrqszr
 66
 3.7
@@ -12074,6 +12284,7 @@ chave nao encontrada: 25
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 4.0
+chave: 22
 ewsl
 44
 4.5
@@ -12103,9 +12314,11 @@ ewsl
 chave ja existente: 4
 chave nao encontrada: 27
 4.5
+chave: 25
 lalxlplgxthzqv
 0
 4.5
+chave: 18
 bhzsfboygcf
 66
 4.5
@@ -12134,13 +12347,16 @@ bhzsfboygcf
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 chave ja existente: 29
+chave: 29
 ydqfpzpproirtbrr
 15
 4.5
 chave nao encontrada: 0
+chave: 10
 zgbldwlqrida
 31
 4.5
+chave: 5
 cgcrqszr
 66
 chave nao encontrada: 17
@@ -12157,6 +12373,7 @@ chave nao encontrada: 20
 8: 25 lalxlplgxthzqv 0
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 29
 ydqfpzpproirtbrr
 15
 chave nao encontrada: 2
@@ -12251,6 +12468,7 @@ chave nao encontrada: 0
 8: 25 lalxlplgxthzqv 0
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 3
 suofefobjakiwgrnvh
 55
 4.5
@@ -12277,6 +12495,7 @@ chave nao encontrada: 30
 8: 25 lalxlplgxthzqv 0
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 29
 ydqfpzpproirtbrr
 15
 4.7
@@ -12330,10 +12549,13 @@ chave nao encontrada: 1
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 5.2
+chave: 19
 npysdekxmbn
 15
+chave: 25
 lalxlplgxthzqv
 0
+chave: 28
 iigxj
 16
 0: 19 npysdekxmbn 15
@@ -12511,6 +12733,7 @@ chave ja existente: 28
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
 5.2
+chave: 18
 bhzsfboygcf
 66
 chave ja existente: 3
@@ -12540,6 +12763,7 @@ chave nao encontrada: 2
 8: 25 lalxlplgxthzqv 0
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 28
 iigxj
 16
 5.2
@@ -12554,6 +12778,7 @@ iigxj
 8: 25 lalxlplgxthzqv 0
 9: 18 bhzsfboygcf 66
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 19
 npysdekxmbn
 15
 chave ja existente: 25
@@ -12597,12 +12822,14 @@ chave ja existente: 4
 5.2
 chave nao encontrada: 24
 chave nao encontrada: 7
+chave: 15
 fkkvbjhtstwidgizbic
 2
 chave ja existente: 18
 chave nao encontrada: 6
 chave nao encontrada: 16
 chave nao encontrada: 0
+chave: 26
 vgtiqrvuyhwplwoh
 9
 0: 19 npysdekxmbn 15
@@ -12712,6 +12939,7 @@ chave nao encontrada: 23
 8: 25 lalxlplgxthzqv 0
 9: vazio
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 0
 kujaez
 65
 chave nao encontrada: 30
@@ -12907,6 +13135,7 @@ chave nao encontrada: 7
 9: 0 kujaez 65
 10: 4 wrtyvsjqbypuurzppu 30
 6.5
+chave: 10
 zgbldwlqrida
 31
 0: 19 npysdekxmbn 15
@@ -12920,6 +13149,7 @@ zgbldwlqrida
 8: 25 lalxlplgxthzqv 0
 9: 0 kujaez 65
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 0
 kujaez
 65
 0: 19 npysdekxmbn 15
@@ -12946,6 +13176,7 @@ kujaez
 10: 4 wrtyvsjqbypuurzppu 30
 chave nao encontrada: 17
 chave nao encontrada: 16
+chave: 3
 suofefobjakiwgrnvh
 55
 chave nao encontrada: 29
@@ -12961,6 +13192,7 @@ chave nao encontrada: 28
 8: 25 lalxlplgxthzqv 0
 9: 0 kujaez 65
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 3
 suofefobjakiwgrnvh
 55
 chave nao encontrada: 27
@@ -13042,6 +13274,7 @@ chave nao encontrada: 28
 chave ja existente: 10
 5.6
 chave nao encontrada: 2
+chave: 11
 lclgji
 59
 chave nao encontrada: 18
@@ -13100,6 +13333,7 @@ chave nao encontrada: 17
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 26
 vgtiqrvuyhwplwoh
 9
 4.4
@@ -13177,8 +13411,10 @@ chave nao encontrada: 27
 chave nao encontrada: 14
 chave nao encontrada: 0
 chave nao encontrada: 13
+chave: 24
 bhzxmycem
 50
+chave: 25
 lalxlplgxthzqv
 0
 chave ja existente: 5
@@ -13219,6 +13455,7 @@ chave nao encontrada: 12
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 4 wrtyvsjqbypuurzppu 30
 chave nao encontrada: 29
+chave: 25
 lalxlplgxthzqv
 0
 chave nao encontrada: 6
@@ -13255,6 +13492,7 @@ chave nao encontrada: 6
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 25
 lalxlplgxthzqv
 0
 chave nao encontrada: 27
@@ -13288,6 +13526,7 @@ chave nao encontrada: 15
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 20
 cztfrfhtexjihdjhjkej
 3
 0: 19 npysdekxmbn 15
@@ -13323,6 +13562,7 @@ cztfrfhtexjihdjhjkej
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 4 wrtyvsjqbypuurzppu 30
+chave: 26
 vgtiqrvuyhwplwoh
 9
 4.2
@@ -13416,6 +13656,7 @@ chave nao encontrada: 14
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 4 wrtyvsjqbypuurzppu 30
 chave ja existente: 20
+chave: 24
 bhzxmycem
 50
 0: 19 npysdekxmbn 15
@@ -13472,6 +13713,7 @@ chave ja existente: 11
 chave nao encontrada: 2
 4.8
 4.8
+chave: 9
 suwasmyvscpmgx
 18
 0: 19 npysdekxmbn 15
@@ -13586,6 +13828,7 @@ chave nao encontrada: 29
 10: vazio
 5.0
 5.0
+chave: 17
 xfhxn
 25
 5.0
@@ -13692,6 +13935,7 @@ chave nao encontrada: 2
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 17 xfhxn 25
+chave: 11
 lclgji
 59
 5.6
@@ -13743,6 +13987,7 @@ chave ja existente: 26
 10: 17 xfhxn 25
 chave ja existente: 20
 chave nao encontrada: 18
+chave: 9
 suwasmyvscpmgx
 18
 0: 19 npysdekxmbn 15
@@ -13962,6 +14207,7 @@ chave nao encontrada: 7
 10: 17 xfhxn 25
 chave nao encontrada: 22
 5.5
+chave: 26
 vgtiqrvuyhwplwoh
 9
 chave nao encontrada: 15
@@ -14011,6 +14257,7 @@ chave nao encontrada: 15
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 17 xfhxn 25
+chave: 19
 npysdekxmbn
 15
 0: 19 npysdekxmbn 15
@@ -14058,8 +14305,10 @@ chave nao encontrada: 18
 chave nao encontrada: 7
 5.1
 5.1
+chave: 17
 xfhxn
 25
+chave: 25
 lalxlplgxthzqv
 0
 5.1
@@ -14099,6 +14348,7 @@ chave nao encontrada: 5
 8: 25 lalxlplgxthzqv 0
 9: 20 cztfrfhtexjihdjhjkej 3
 10: 17 xfhxn 25
+chave: 6
 hoxlni
 53
 chave nao encontrada: 1
@@ -14114,8 +14364,10 @@ chave nao encontrada: 15
 5.1
 5.1
 5.1
+chave: 29
 qdhcp
 61
+chave: 25
 lalxlplgxthzqv
 0
 chave nao encontrada: 7
@@ -14237,6 +14489,7 @@ chave ja existente: 0
 chave nao encontrada: 22
 chave nao encontrada: 2
 chave ja existente: 17
+chave: 6
 hoxlni
 53
 0: 19 npysdekxmbn 15
@@ -14472,8 +14725,10 @@ chave nao encontrada: 28
 chave ja existente: 29
 4.1
 4.1
+chave: 6
 hoxlni
 53
+chave: 26
 vgtiqrvuyhwplwoh
 9
 4.1
@@ -14593,8 +14848,10 @@ chave nao encontrada: 3
 3.8
 3.8
 3.8
+chave: 17
 sag
 33
+chave: 11
 lclgji
 59
 3.6
@@ -14658,6 +14915,7 @@ chave nao encontrada: 2
 8: 22 mszbbcc 66
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
+chave: 22
 mszbbcc
 66
 0: 29 xmphucnsee 7
@@ -14716,6 +14974,7 @@ chave nao encontrada: 23
 chave ja existente: 27
 chave nao encontrada: 14
 chave nao encontrada: 1
+chave: 27
 qxwskkzfkrtnfcfs
 52
 0: 29 xmphucnsee 7
@@ -14730,6 +14989,7 @@ qxwskkzfkrtnfcfs
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
 chave nao encontrada: 16
+chave: 4
 hhxhligvdbrmw
 53
 chave ja existente: 6
@@ -14749,6 +15009,7 @@ chave nao encontrada: 5
 8: 22 mszbbcc 66
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
+chave: 11
 lclgji
 59
 chave nao encontrada: 14
@@ -14920,6 +15181,7 @@ chave nao encontrada: 15
 10: 20 spacxirxzhxnyzj 25
 4.4
 chave nao encontrada: 28
+chave: 17
 sag
 33
 0: 29 xmphucnsee 7
@@ -14948,6 +15210,7 @@ sag
 10: 20 spacxirxzhxnyzj 25
 chave nao encontrada: 8
 chave nao encontrada: 16
+chave: 17
 sag
 33
 4.4
@@ -15050,9 +15313,11 @@ chave nao encontrada: 1
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
 4.8
+chave: 20
 spacxirxzhxnyzj
 25
 4.8
+chave: 0
 mgvchsfgckgxxy
 7
 chave nao encontrada: 8
@@ -15082,6 +15347,7 @@ chave nao encontrada: 8
 8: 22 mszbbcc 66
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
+chave: 20
 spacxirxzhxnyzj
 25
 chave nao encontrada: 16
@@ -15150,11 +15416,13 @@ chave nao encontrada: 18
 chave nao encontrada: 16
 chave ja existente: 26
 chave ja existente: 19
+chave: 10
 cfrqlzjjgzouhhcccd
 4
 4.9
 4.9
 4.9
+chave: 26
 vgtiqrvuyhwplwoh
 9
 chave nao encontrada: 8
@@ -15240,10 +15508,12 @@ chave nao encontrada: 18
 4.9
 4.9
 4.9
+chave: 22
 mszbbcc
 66
 4.9
 chave nao encontrada: 1
+chave: 27
 okrqkssrripzfm
 32
 0: 27 okrqkssrripzfm 32
@@ -15294,6 +15564,7 @@ chave nao encontrada: 3
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
 chave nao encontrada: 13
+chave: 10
 cfrqlzjjgzouhhcccd
 4
 4.9
@@ -15308,6 +15579,7 @@ cfrqlzjjgzouhhcccd
 8: 22 mszbbcc 66
 9: 17 sag 33
 10: 20 spacxirxzhxnyzj 25
+chave: 10
 cfrqlzjjgzouhhcccd
 4
 0: 27 okrqkssrripzfm 32
@@ -15385,6 +15657,7 @@ chave nao encontrada: 4
 10: 16 luaktuvcs 2
 chave ja existente: 6
 chave ja existente: 10
+chave: 11
 lclgji
 59
 0: 27 okrqkssrripzfm 32
@@ -15436,6 +15709,7 @@ chave ja existente: 26
 9: 17 sag 33
 10: 16 luaktuvcs 2
 chave ja existente: 11
+chave: 5
 sljinmqckbjkmdphmxm
 25
 4.9
@@ -15489,6 +15763,7 @@ chave nao encontrada: 9
 4.9
 4.9
 chave ja existente: 23
+chave: 19
 qraaqtqneoj
 10
 4.7
@@ -15504,6 +15779,7 @@ qraaqtqneoj
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 chave nao encontrada: 3
+chave: 19
 qraaqtqneoj
 10
 0: 27 okrqkssrripzfm 32
@@ -15530,6 +15806,7 @@ chave nao encontrada: 12
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 5
 sljinmqckbjkmdphmxm
 25
 4.7
@@ -15639,10 +15916,12 @@ chave nao encontrada: 25
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 chave nao encontrada: 10
+chave: 11
 lclgji
 59
 4.7
 4.7
+chave: 26
 vgtiqrvuyhwplwoh
 9
 4.7
@@ -15664,6 +15943,7 @@ chave ja existente: 27
 4.7
 chave nao encontrada: 2
 4.7
+chave: 0
 mgvchsfgckgxxy
 7
 chave nao encontrada: 18
@@ -15718,6 +15998,7 @@ chave nao encontrada: 13
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 4.7
+chave: 16
 luaktuvcs
 2
 0: 27 okrqkssrripzfm 32
@@ -15732,6 +16013,7 @@ luaktuvcs
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 4.7
+chave: 5
 sljinmqckbjkmdphmxm
 25
 chave nao encontrada: 29
@@ -15751,6 +16033,7 @@ chave nao encontrada: 29
 5.0
 chave nao encontrada: 13
 chave nao encontrada: 30
+chave: 6
 mxof
 46
 0: vazio
@@ -15767,11 +16050,13 @@ mxof
 5.6
 5.6
 chave nao encontrada: 1
+chave: 6
 mxof
 46
 5.6
 5.6
 chave ja existente: 0
+chave: 26
 vgtiqrvuyhwplwoh
 9
 chave nao encontrada: 1
@@ -15799,10 +16084,12 @@ chave nao encontrada: 1
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 5.5
+chave: 19
 qraaqtqneoj
 10
 5.5
 5.5
+chave: 16
 luaktuvcs
 2
 0: 9 nqo 47
@@ -15841,6 +16128,7 @@ chave ja existente: 22
 10: 16 luaktuvcs 2
 5.4
 5.4
+chave: 19
 qraaqtqneoj
 10
 5.4
@@ -15908,6 +16196,7 @@ chave nao encontrada: 1
 chave nao encontrada: 27
 chave nao encontrada: 13
 chave nao encontrada: 30
+chave: 8
 kdemrjguuhxt
 5
 chave nao encontrada: 20
@@ -15923,6 +16212,7 @@ chave nao encontrada: 20
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 5.3
+chave: 5
 sljinmqckbjkmdphmxm
 25
 chave nao encontrada: 21
@@ -15988,6 +16278,7 @@ chave ja existente: 3
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 5
 sljinmqckbjkmdphmxm
 25
 0: 9 nqo 47
@@ -16024,6 +16315,7 @@ sljinmqckbjkmdphmxm
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 chave ja existente: 5
+chave: 6
 mxof
 46
 4.8
@@ -16038,6 +16330,7 @@ mxof
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 19
 qraaqtqneoj
 10
 chave nao encontrada: 29
@@ -16205,6 +16498,7 @@ chave nao encontrada: 11
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 22
 mszbbcc
 66
 4.3
@@ -16281,6 +16575,7 @@ chave nao encontrada: 1
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 16
 luaktuvcs
 2
 0: 9 nqo 47
@@ -16321,6 +16616,7 @@ chave nao encontrada: 20
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 6
 mxof
 46
 4.7
@@ -16441,6 +16737,7 @@ chave ja existente: 5
 4.7
 chave nao encontrada: 27
 4.7
+chave: 6
 mxof
 46
 0: 9 nqo 47
@@ -16454,10 +16751,13 @@ mxof
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 6
 mxof
 46
+chave: 5
 sljinmqckbjkmdphmxm
 25
+chave: 13
 ryhpk
 2
 4.7
@@ -16587,6 +16887,7 @@ chave ja existente: 16
 chave nao encontrada: 24
 4.7
 4.7
+chave: 7
 ryyijkxrymdwois
 33
 chave ja existente: 7
@@ -16635,6 +16936,7 @@ chave nao encontrada: 15
 4.7
 4.7
 chave nao encontrada: 11
+chave: 7
 ryyijkxrymdwois
 33
 chave nao encontrada: 24
@@ -16655,6 +16957,7 @@ chave nao encontrada: 18
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 19
 qraaqtqneoj
 10
 chave nao encontrada: 18
@@ -16673,8 +16976,10 @@ chave nao encontrada: 18
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 chave nao encontrada: 26
+chave: 8
 kdemrjguuhxt
 5
+chave: 6
 mxof
 46
 0: 9 nqo 47
@@ -16818,6 +17123,7 @@ chave nao encontrada: 21
 8: 22 mszbbcc 66
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 9
 nqo
 47
 chave nao encontrada: 17
@@ -16855,6 +17161,7 @@ chave nao encontrada: 21
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
 chave nao encontrada: 17
+chave: 0
 rbwffwydxvexe
 7
 5.0
@@ -16939,6 +17246,7 @@ chave nao encontrada: 11
 8: 29 phjt 38
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 16
 luaktuvcs
 2
 5.5
@@ -16972,6 +17280,7 @@ chave nao encontrada: 6
 5.7
 5.7
 5.7
+chave: 5
 sljinmqckbjkmdphmxm
 25
 5.7
@@ -17011,6 +17320,7 @@ chave nao encontrada: 20
 chave nao encontrada: 6
 chave ja existente: 7
 6.1
+chave: 15
 mbhfvornpvklqrozh
 23
 chave nao encontrada: 19
@@ -17094,8 +17404,10 @@ chave nao encontrada: 23
 8: 29 phjt 38
 9: 8 kdemrjguuhxt 5
 10: 16 luaktuvcs 2
+chave: 29
 phjt
 38
+chave: 22
 cuqxdpqflvfvkjja
 56
 6.0
@@ -17167,6 +17479,7 @@ chave ja existente: 0
 9: 8 kdemrjguuhxt 5
 10: 20 vphyxkcbsiglqzadpudy 45
 chave nao encontrada: 19
+chave: 0
 rbwffwydxvexe
 7
 chave nao encontrada: 26
@@ -17197,6 +17510,7 @@ chave nao encontrada: 10
 5.1
 5.1
 chave nao encontrada: 26
+chave: 0
 rbwffwydxvexe
 7
 0: 11 yojye 17
@@ -17228,6 +17542,7 @@ chave nao encontrada: 27
 chave ja existente: 4
 chave ja existente: 8
 5.1
+chave: 22
 cuqxdpqflvfvkjja
 56
 5.1
@@ -17236,6 +17551,7 @@ chave nao encontrada: 16
 chave nao encontrada: 6
 chave ja existente: 5
 chave nao encontrada: 19
+chave: 3
 ocwgcvtatpeomslsjhlx
 57
 0: 11 yojye 17
@@ -17249,10 +17565,12 @@ ocwgcvtatpeomslsjhlx
 8: 29 phjt 38
 9: 8 kdemrjguuhxt 5
 10: 20 vphyxkcbsiglqzadpudy 45
+chave: 11
 yojye
 17
 5.8
 chave nao encontrada: 15
+chave: 13
 qvptuyjvhmcp
 14
 5.8
@@ -17304,6 +17622,7 @@ chave ja existente: 30
 9: 8 kdemrjguuhxt 5
 10: 1 b 57
 chave ja existente: 0
+chave: 29
 phjt
 38
 5.8
@@ -17333,8 +17652,10 @@ chave nao encontrada: 16
 9: 8 kdemrjguuhxt 5
 10: 1 b 57
 5.8
+chave: 13
 qvptuyjvhmcp
 14
+chave: 5
 sljinmqckbjkmdphmxm
 25
 chave ja existente: 5
@@ -17390,6 +17711,7 @@ chave nao encontrada: 10
 10: 1 b 57
 chave nao encontrada: 17
 chave ja existente: 4
+chave: 3
 ocwgcvtatpeomslsjhlx
 57
 0: 11 yojye 17
@@ -17445,6 +17767,7 @@ chave nao encontrada: 7
 6.3
 6.3
 chave ja existente: 3
+chave: 5
 sljinmqckbjkmdphmxm
 25
 chave nao encontrada: 26
@@ -17452,6 +17775,7 @@ chave nao encontrada: 16
 chave nao encontrada: 16
 6.3
 6.3
+chave: 5
 sljinmqckbjkmdphmxm
 25
 6.3
@@ -17548,6 +17872,7 @@ chave ja existente: 11
 9: 17 flvdxtjmvw 8
 10: 1 b 57
 6.6
+chave: 1
 b
 57
 0: 11 yojye 17
@@ -17681,6 +18006,7 @@ chave nao encontrada: 18
 10: 1 b 57
 chave ja existente: 20
 chave nao encontrada: 26
+chave: 17
 flvdxtjmvw
 8
 7.1
@@ -17796,6 +18122,7 @@ chave nao encontrada: 24
 10: 1 b 57
 chave ja existente: 27
 chave nao encontrada: 19
+chave: 30
 aoz
 50
 chave nao encontrada: 0
@@ -17816,6 +18143,7 @@ chave nao encontrada: 9
 9: vazio
 10: 1 b 57
 chave nao encontrada: 14
+chave: 2
 bic
 20
 0: 20 vvqkrocqcnmu 46
@@ -17901,6 +18229,7 @@ chave nao encontrada: 23
 8: 21 dbeoohibygcex 11
 9: 29 nsrouvqebanv 68
 10: 1 b 57
+chave: 1
 b
 57
 0: 20 vvqkrocqcnmu 46
@@ -17969,6 +18298,7 @@ chave ja existente: 5
 7.1
 7.1
 7.1
+chave: 13
 qvptuyjvhmcp
 14
 0: 20 vvqkrocqcnmu 46
@@ -17983,12 +18313,15 @@ qvptuyjvhmcp
 9: 29 nsrouvqebanv 68
 10: 1 b 57
 chave ja existente: 13
+chave: 21
 dbeoohibygcex
 11
 7.1
 7.1
+chave: 27
 voovwtatjh
 13
+chave: 27
 voovwtatjh
 13
 7.1
@@ -17997,6 +18330,7 @@ chave ja existente: 30
 chave nao encontrada: 15
 7.1
 7.1
+chave: 20
 vvqkrocqcnmu
 46
 0: 20 vvqkrocqcnmu 46
@@ -18082,8 +18416,10 @@ chave nao encontrada: 11
 8: 21 dbeoohibygcex 11
 9: 29 nsrouvqebanv 68
 10: 1 b 57
+chave: 22
 cuqxdpqflvfvkjja
 56
+chave: 29
 nsrouvqebanv
 68
 chave nao encontrada: 15
@@ -18103,6 +18439,7 @@ chave ja existente: 29
 8: 21 dbeoohibygcex 11
 9: 29 nsrouvqebanv 68
 10: 1 b 57
+chave: 29
 nsrouvqebanv
 68
 7.1
@@ -18177,12 +18514,14 @@ chave nao encontrada: 8
 8: 21 dbeoohibygcex 11
 9: 29 nsrouvqebanv 68
 10: 1 b 57
+chave: 27
 voovwtatjh
 13
 7.1
 chave nao encontrada: 12
 7.1
 chave ja existente: 30
+chave: 22
 cuqxdpqflvfvkjja
 56
 0: 20 vvqkrocqcnmu 46
@@ -18218,9 +18557,11 @@ chave nao encontrada: 29
 chave nao encontrada: 28
 chave nao encontrada: 15
 chave nao encontrada: 26
+chave: 0
 iebdhlajpx
 7
 chave ja existente: 1
+chave: 13
 qvptuyjvhmcp
 14
 7.8
@@ -18236,6 +18577,7 @@ qvptuyjvhmcp
 9: 0 iebdhlajpx 7
 10: 1 b 57
 7.8
+chave: 20
 vvqkrocqcnmu
 46
 chave nao encontrada: 26
@@ -18298,6 +18640,7 @@ chave nao encontrada: 11
 9: 0 iebdhlajpx 7
 10: 1 b 57
 chave ja existente: 30
+chave: 20
 vvqkrocqcnmu
 46
 7.8
@@ -18347,6 +18690,7 @@ chave nao encontrada: 15
 9: 0 iebdhlajpx 7
 10: 1 b 57
 7.8
+chave: 30
 aoz
 50
 0: 20 vvqkrocqcnmu 46
@@ -18360,8 +18704,10 @@ aoz
 8: 21 dbeoohibygcex 11
 9: 0 iebdhlajpx 7
 10: 1 b 57
+chave: 5
 sljinmqckbjkmdphmxm
 25
+chave: 30
 aoz
 50
 7.8
@@ -18378,6 +18724,7 @@ chave nao encontrada: 15
 9: 0 iebdhlajpx 7
 10: 1 b 57
 chave nao encontrada: 16
+chave: 27
 voovwtatjh
 13
 7.8
@@ -18433,6 +18780,7 @@ chave nao encontrada: 15
 8: 21 dbeoohibygcex 11
 9: 0 iebdhlajpx 7
 10: 1 b 57
+chave: 0
 iebdhlajpx
 7
 7.6
@@ -18483,6 +18831,7 @@ chave nao encontrada: 4
 8: 21 dbeoohibygcex 11
 9: vazio
 10: 1 b 57
+chave: 5
 sljinmqckbjkmdphmxm
 25
 chave nao encontrada: 8
@@ -18513,9 +18862,11 @@ chave ja existente: 27
 9: vazio
 10: 1 b 57
 chave nao encontrada: 19
+chave: 21
 dbeoohibygcex
 11
 chave ja existente: 1
+chave: 5
 sljinmqckbjkmdphmxm
 25
 0: 20 vvqkrocqcnmu 46
@@ -18657,6 +19008,7 @@ chave nao encontrada: 24
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 1 b 57
+chave: 5
 sljinmqckbjkmdphmxm
 25
 chave nao encontrada: 18
@@ -18684,6 +19036,7 @@ chave nao encontrada: 26
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 1 b 57
+chave: 3
 ocwgcvtatpeomslsjhlx
 57
 0: 20 vvqkrocqcnmu 46
@@ -18709,6 +19062,7 @@ ocwgcvtatpeomslsjhlx
 9: 25 zscgocyjw 25
 10: 1 b 57
 chave nao encontrada: 22
+chave: 13
 qvptuyjvhmcp
 14
 0: 20 vvqkrocqcnmu 46
@@ -18760,6 +19114,7 @@ chave ja existente: 20
 6.7
 chave nao encontrada: 17
 6.7
+chave: 4
 kovwarwuxz
 0
 chave ja existente: 3
@@ -18936,6 +19291,7 @@ chave nao encontrada: 22
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
 chave ja existente: 21
+chave: 18
 dpaggnwdlvbzkfmirght
 39
 6.4
@@ -18975,6 +19331,7 @@ chave nao encontrada: 30
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 13
 qvptuyjvhmcp
 14
 6.4
@@ -19056,6 +19413,7 @@ chave nao encontrada: 19
 10: 18 dpaggnwdlvbzkfmirght 39
 6.2
 6.2
+chave: 21
 dbeoohibygcex
 11
 chave nao encontrada: 15
@@ -19110,6 +19468,7 @@ chave nao encontrada: 30
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 13
 qvptuyjvhmcp
 14
 6.2
@@ -19150,6 +19509,7 @@ chave ja existente: 27
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
 6.2
+chave: 7
 obwgodfdbok
 15
 0: 20 vvqkrocqcnmu 46
@@ -19180,6 +19540,7 @@ chave nao encontrada: 6
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
 chave nao encontrada: 5
+chave: 27
 voovwtatjh
 13
 6.6
@@ -19342,6 +19703,7 @@ chave nao encontrada: 0
 10: 18 dpaggnwdlvbzkfmirght 39
 chave nao encontrada: 20
 chave nao encontrada: 22
+chave: 10
 prorphwgumaerq
 31
 0: 29 hwwpmvyxbictjnsn 12
@@ -19355,6 +19717,7 @@ prorphwgumaerq
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 25
 zscgocyjw
 25
 0: 29 hwwpmvyxbictjnsn 12
@@ -19396,6 +19759,7 @@ chave nao encontrada: 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
 chave nao encontrada: 3
+chave: 25
 zscgocyjw
 25
 chave nao encontrada: 11
@@ -19653,6 +20017,7 @@ chave ja existente: 27
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 25
 zscgocyjw
 25
 0: 0 wgoseygxqdn 17
@@ -19853,6 +20218,7 @@ chave nao encontrada: 9
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 28
 pzjnqxsmivkbhwnire
 67
 chave nao encontrada: 24
@@ -19911,8 +20277,10 @@ chave ja existente: 25
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 29
 fgcqomxhpffnywc
 67
+chave: 25
 zscgocyjw
 25
 chave nao encontrada: 23
@@ -19997,6 +20365,7 @@ chave nao encontrada: 15
 5.9
 5.9
 5.9
+chave: 0
 wgoseygxqdn
 17
 0: 0 wgoseygxqdn 17
@@ -20010,6 +20379,7 @@ wgoseygxqdn
 8: 21 dbeoohibygcex 11
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 0
 wgoseygxqdn
 17
 chave nao encontrada: 22
@@ -20082,6 +20452,7 @@ chave nao encontrada: 24
 8: vazio
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 16
 jpipp
 49
 0: 0 wgoseygxqdn 17
@@ -20096,6 +20467,7 @@ jpipp
 9: 25 zscgocyjw 25
 10: 18 dpaggnwdlvbzkfmirght 39
 5.5
+chave: 28
 pzjnqxsmivkbhwnire
 67
 0: 0 wgoseygxqdn 17
@@ -20257,9 +20629,11 @@ chave nao encontrada: 24
 5.7
 chave nao encontrada: 12
 5.7
+chave: 7
 obwgodfdbok
 15
 chave ja existente: 6
+chave: 18
 dpaggnwdlvbzkfmirght
 39
 5.3
@@ -20332,9 +20706,11 @@ chave nao encontrada: 20
 10: 18 dpaggnwdlvbzkfmirght 39
 5.3
 chave nao encontrada: 30
+chave: 26
 gtrn
 6
 chave nao encontrada: 5
+chave: 29
 fgcqomxhpffnywc
 67
 chave nao encontrada: 12
@@ -20358,10 +20734,12 @@ chave ja existente: 18
 5.3
 4.8
 4.8
+chave: 3
 youwbdzcjvyekci
 51
 4.8
 chave nao encontrada: 24
+chave: 0
 wgoseygxqdn
 17
 0: 0 wgoseygxqdn 17
@@ -20493,6 +20871,7 @@ chave nao encontrada: 19
 9: 1 yumgvggybi 67
 10: 18 dpaggnwdlvbzkfmirght 39
 chave ja existente: 1
+chave: 3
 youwbdzcjvyekci
 51
 0: 0 wgoseygxqdn 17
@@ -20543,6 +20922,7 @@ youwbdzcjvyekci
 4.5
 chave nao encontrada: 27
 chave ja existente: 1
+chave: 29
 fgcqomxhpffnywc
 67
 0: 0 wgoseygxqdn 17
@@ -20624,9 +21004,11 @@ chave nao encontrada: 9
 chave nao encontrada: 27
 4.2
 chave ja existente: 15
+chave: 29
 fgcqomxhpffnywc
 67
 chave nao encontrada: 23
+chave: 26
 gtrn
 6
 chave ja existente: 13
@@ -20653,6 +21035,7 @@ chave nao encontrada: 19
 8: 26 gtrn 6
 9: 1 yumgvggybi 67
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 18
 dpaggnwdlvbzkfmirght
 39
 4.2
@@ -20678,6 +21061,7 @@ dpaggnwdlvbzkfmirght
 8: 26 gtrn 6
 9: 1 yumgvggybi 67
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 26
 gtrn
 6
 0: 0 wgoseygxqdn 17
@@ -20786,6 +21170,7 @@ chave nao encontrada: 12
 8: 26 gtrn 6
 9: 1 yumgvggybi 67
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 0
 wgoseygxqdn
 17
 chave ja existente: 26
@@ -20852,6 +21237,7 @@ chave nao encontrada: 9
 8: 26 gtrn 6
 9: vazio
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 3
 youwbdzcjvyekci
 51
 chave nao encontrada: 11
@@ -20866,6 +21252,7 @@ chave nao encontrada: 11
 8: 26 gtrn 6
 9: vazio
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 26
 gtrn
 6
 0: 0 wgoseygxqdn 17
@@ -20892,6 +21279,7 @@ chave ja existente: 0
 8: 26 gtrn 6
 9: 11 awnjhagyvovosniwh 33
 10: 18 dpaggnwdlvbzkfmirght 39
+chave: 2
 gdsytgxavfmytgm
 4
 0: 0 wgoseygxqdn 17
@@ -20984,6 +21372,7 @@ gdsytgxavfmytgm
 10: 18 dpaggnwdlvbzkfmirght 39
 chave ja existente: 29
 3.6
+chave: 18
 dpaggnwdlvbzkfmirght
 39
 0: 0 wgoseygxqdn 17
@@ -21000,6 +21389,7 @@ dpaggnwdlvbzkfmirght
 chave nao encontrada: 5
 3.6
 3.6
+chave: 3
 youwbdzcjvyekci
 51
 0: 0 wgoseygxqdn 17
@@ -21049,6 +21439,7 @@ chave nao encontrada: 10
 9: 11 awnjhagyvovosniwh 33
 10: vazio
 chave nao encontrada: 9
+chave: 26
 gtrn
 6
 3.7
@@ -21213,6 +21604,7 @@ chave nao encontrada: 22
 9: 11 awnjhagyvovosniwh 33
 10: vazio
 chave nao encontrada: 19
+chave: 0
 wgoseygxqdn
 17
 2.6
@@ -21428,6 +21820,7 @@ chave nao encontrada: 25
 2.7
 2.7
 2.7
+chave: 15
 mexvgrur
 52
 2.7
@@ -21486,8 +21879,10 @@ chave nao encontrada: 28
 chave nao encontrada: 17
 chave ja existente: 11
 chave nao encontrada: 1
+chave: 11
 awnjhagyvovosniwh
 33
+chave: 11
 awnjhagyvovosniwh
 33
 3.3
@@ -21520,6 +21915,7 @@ chave nao encontrada: 14
 2.9
 chave ja existente: 30
 2.9
+chave: 9
 mvgni
 8
 chave nao encontrada: 17
@@ -21609,6 +22005,7 @@ chave ja existente: 22
 chave ja existente: 15
 chave ja existente: 2
 chave nao encontrada: 13
+chave: 15
 mexvgrur
 52
 chave nao encontrada: 17
@@ -21623,6 +22020,7 @@ chave nao encontrada: 17
 8: 24 owvfphynkmncgyrn 54
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
+chave: 30
 moejgfn
 8
 chave nao encontrada: 1
@@ -21692,6 +22090,7 @@ chave nao encontrada: 7
 chave ja existente: 30
 2.6
 2.6
+chave: 24
 owvfphynkmncgyrn
 54
 chave nao encontrada: 17
@@ -21760,6 +22159,7 @@ chave nao encontrada: 12
 8: 24 owvfphynkmncgyrn 54
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
+chave: 11
 awnjhagyvovosniwh
 33
 chave ja existente: 0
@@ -21826,6 +22226,7 @@ chave nao encontrada: 4
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
 chave nao encontrada: 19
+chave: 6
 lsu
 36
 2.8
@@ -21938,6 +22339,7 @@ chave nao encontrada: 12
 10: 30 moejgfn 8
 chave ja existente: 16
 chave nao encontrada: 10
+chave: 4
 txmkafgtfxpuhijljtt
 56
 3.4
@@ -21965,6 +22367,7 @@ chave nao encontrada: 26
 8: 24 owvfphynkmncgyrn 54
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
+chave: 4
 txmkafgtfxpuhijljtt
 56
 chave ja existente: 6
@@ -22017,6 +22420,7 @@ chave nao encontrada: 17
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
 3.6
+chave: 2
 gdsytgxavfmytgm
 4
 chave ja existente: 15
@@ -22040,6 +22444,7 @@ chave nao encontrada: 7
 chave nao encontrada: 7
 chave nao encontrada: 25
 chave nao encontrada: 26
+chave: 16
 jpipp
 49
 chave nao encontrada: 27
@@ -22061,6 +22466,7 @@ chave nao encontrada: 10
 chave ja existente: 16
 chave ja existente: 30
 3.6
+chave: 30
 moejgfn
 8
 3.6
@@ -22277,6 +22683,7 @@ chave nao encontrada: 15
 chave ja existente: 24
 chave ja existente: 13
 3.5
+chave: 6
 lsu
 36
 0: 0 wgoseygxqdn 17
@@ -22409,10 +22816,12 @@ chave nao encontrada: 15
 8: 24 owvfphynkmncgyrn 54
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
+chave: 1
 hvrepndvto
 27
 3.1
 3.1
+chave: 9
 mvgni
 8
 0: 0 wgoseygxqdn 17
@@ -22452,6 +22861,7 @@ chave ja existente: 13
 9: 11 awnjhagyvovosniwh 33
 10: 30 moejgfn 8
 chave nao encontrada: 8
+chave: 4
 txmkafgtfxpuhijljtt
 56
 0: 0 wgoseygxqdn 17
@@ -22526,6 +22936,7 @@ chave nao encontrada: 3
 8: 24 owvfphynkmncgyrn 54
 9: vazio
 10: 30 moejgfn 8
+chave: 4
 txmkafgtfxpuhijljtt
 56
 2.7
@@ -22533,6 +22944,7 @@ txmkafgtfxpuhijljtt
 chave nao encontrada: 12
 chave nao encontrada: 19
 2.6
+chave: 30
 moejgfn
 8
 0: 25 uypovigrocv 51
@@ -22546,9 +22958,11 @@ moejgfn
 8: 17 ayulgiuaanwftrw 54
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
+chave: 9
 mvgni
 8
 2.6
+chave: 25
 uypovigrocv
 51
 2.6
@@ -22581,6 +22995,7 @@ chave nao encontrada: 20
 2.6
 chave ja existente: 25
 chave nao encontrada: 21
+chave: 27
 boeybtvifwzlu
 63
 chave ja existente: 25
@@ -22657,6 +23072,7 @@ chave nao encontrada: 5
 chave nao encontrada: 26
 chave ja existente: 1
 2.8
+chave: 2
 gdsytgxavfmytgm
 4
 0: 25 uypovigrocv 51
@@ -22692,6 +23108,7 @@ gdsytgxavfmytgm
 8: 17 ayulgiuaanwftrw 54
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
+chave: 8
 iwqwoyele
 41
 chave nao encontrada: 23
@@ -22708,6 +23125,7 @@ chave nao encontrada: 22
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
 chave nao encontrada: 29
+chave: 2
 gdsytgxavfmytgm
 4
 3.2
@@ -22740,6 +23158,7 @@ chave nao encontrada: 11
 8: 17 ayulgiuaanwftrw 54
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
+chave: 4
 txmkafgtfxpuhijljtt
 56
 chave ja existente: 13
@@ -22757,6 +23176,7 @@ chave ja existente: 13
 chave ja existente: 25
 chave nao encontrada: 20
 chave nao encontrada: 7
+chave: 13
 smnuzahbavngqhjzcj
 44
 0: 25 uypovigrocv 51
@@ -22810,6 +23230,7 @@ chave nao encontrada: 5
 8: 17 ayulgiuaanwftrw 54
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
+chave: 1
 hvrepndvto
 27
 0: 25 uypovigrocv 51
@@ -22906,6 +23327,7 @@ chave nao encontrada: 18
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
 3.6
+chave: 30
 moejgfn
 8
 0: 25 uypovigrocv 51
@@ -22973,6 +23395,7 @@ chave nao encontrada: 14
 10: 30 moejgfn 8
 3.8
 chave nao encontrada: 15
+chave: 10
 eifcezunsjqp
 42
 chave nao encontrada: 15
@@ -23050,6 +23473,7 @@ chave nao encontrada: 11
 8: 29 rltjnllkjuuyev 70
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
+chave: 1
 hvrepndvto
 27
 0: 25 uypovigrocv 51
@@ -23102,6 +23526,7 @@ chave nao encontrada: 28
 8: 29 rltjnllkjuuyev 70
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
+chave: 8
 iwqwoyele
 41
 chave nao encontrada: 9
@@ -23163,6 +23588,7 @@ chave nao encontrada: 16
 chave nao encontrada: 28
 4.6
 chave ja existente: 10
+chave: 1
 hvrepndvto
 27
 chave nao encontrada: 6
@@ -23180,6 +23606,7 @@ chave nao encontrada: 16
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
 chave nao encontrada: 7
+chave: 1
 hvrepndvto
 27
 4.6
@@ -23189,9 +23616,11 @@ chave nao encontrada: 19
 4.6
 chave nao encontrada: 16
 chave nao encontrada: 15
+chave: 2
 hynjrsgtdfk
 67
 4.6
+chave: 8
 iwqwoyele
 41
 0: 25 uypovigrocv 51
@@ -23256,6 +23685,7 @@ chave nao encontrada: 21
 9: 8 iwqwoyele 41
 10: 30 moejgfn 8
 chave ja existente: 1
+chave: 1
 hvrepndvto
 27
 0: 25 uypovigrocv 51
@@ -23381,6 +23811,7 @@ chave nao encontrada: 22
 chave nao encontrada: 28
 chave nao encontrada: 3
 5.5
+chave: 1
 hvrepndvto
 27
 0: 25 uypovigrocv 51
@@ -23414,8 +23845,10 @@ chave ja existente: 8
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: 30 moejgfn 8
+chave: 6
 j
 35
+chave: 30
 moejgfn
 8
 5.3
@@ -23499,6 +23932,7 @@ chave ja existente: 20
 9: 17 uezy 64
 10: 30 moejgfn 8
 chave ja existente: 8
+chave: 6
 j
 35
 4.8
@@ -23517,11 +23951,14 @@ chave nao encontrada: 23
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: 30 moejgfn 8
+chave: 6
 j
 35
+chave: 6
 j
 35
 chave nao encontrada: 14
+chave: 2
 hynjrsgtdfk
 67
 chave nao encontrada: 12
@@ -23530,6 +23967,7 @@ chave nao encontrada: 12
 chave nao encontrada: 12
 chave nao encontrada: 5
 4.2
+chave: 21
 lazfbvojls
 23
 0: 25 uypovigrocv 51
@@ -23617,6 +24055,7 @@ chave nao encontrada: 0
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: vazio
+chave: 25
 uypovigrocv
 51
 chave nao encontrada: 12
@@ -23659,6 +24098,7 @@ chave nao encontrada: 15
 9: 17 uezy 64
 10: vazio
 chave nao encontrada: 21
+chave: 17
 uezy
 64
 4.7
@@ -23799,6 +24239,7 @@ chave nao encontrada: 7
 10: vazio
 5.2
 chave nao encontrada: 22
+chave: 28
 fvsjztnspumoxn
 44
 0: 25 uypovigrocv 51
@@ -23814,6 +24255,7 @@ fvsjztnspumoxn
 10: vazio
 5.2
 5.2
+chave: 2
 hynjrsgtdfk
 67
 5.6
@@ -23842,9 +24284,11 @@ chave ja existente: 8
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: 1 sme 4
+chave: 1
 sme
 4
 chave nao encontrada: 7
+chave: 6
 sfkrfehexxzwkqcnp
 10
 0: 25 uypovigrocv 51
@@ -23887,6 +24331,7 @@ chave nao encontrada: 10
 5.6
 chave nao encontrada: 3
 chave nao encontrada: 22
+chave: 28
 fvsjztnspumoxn
 44
 chave nao encontrada: 16
@@ -23967,6 +24412,7 @@ chave nao encontrada: 15
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: 1 sme 4
+chave: 14
 rpyfornicbgzwltng
 17
 chave nao encontrada: 16
@@ -24055,6 +24501,7 @@ chave nao encontrada: 5
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: 1 sme 4
+chave: 20
 trwnqhlhcwqnwnmue
 6
 0: 25 uypovigrocv 51
@@ -24114,11 +24561,13 @@ chave nao encontrada: 12
 8: 29 rltjnllkjuuyev 70
 9: 17 uezy 64
 10: 1 sme 4
+chave: 19
 vqvlalxcxajw
 48
 chave nao encontrada: 27
 chave nao encontrada: 4
 chave nao encontrada: 13
+chave: 6
 sfkrfehexxzwkqcnp
 10
 chave ja existente: 8
@@ -24161,6 +24610,7 @@ chave nao encontrada: 23
 9: 17 uezy 64
 10: 1 sme 4
 6.0
+chave: 8
 dgnbidwzuka
 51
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -24221,6 +24671,7 @@ dgnbidwzuka
 8: vazio
 9: 17 uezy 64
 10: 1 sme 4
+chave: 20
 trwnqhlhcwqnwnmue
 6
 chave nao encontrada: 27
@@ -24264,6 +24715,7 @@ chave nao encontrada: 16
 10: 1 sme 4
 chave nao encontrada: 7
 5.6
+chave: 23
 swvcgnl
 27
 5.6
@@ -24289,6 +24741,7 @@ swvcgnl
 8: 3 fqgszyfz 1
 9: 23 swvcgnl 27
 10: 1 sme 4
+chave: 1
 sme
 4
 chave nao encontrada: 0
@@ -24321,6 +24774,7 @@ chave nao encontrada: 15
 8: 3 fqgszyfz 1
 9: 23 swvcgnl 27
 10: 1 sme 4
+chave: 20
 trwnqhlhcwqnwnmue
 6
 chave nao encontrada: 29
@@ -24380,6 +24834,7 @@ chave ja existente: 14
 chave nao encontrada: 25
 6.5
 chave nao encontrada: 16
+chave: 23
 swvcgnl
 27
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -24510,6 +24965,7 @@ chave nao encontrada: 29
 6.5
 chave nao encontrada: 5
 chave ja existente: 10
+chave: 3
 fqgszyfz
 1
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -24524,6 +24980,7 @@ fqgszyfz
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
 6.5
+chave: 3
 fqgszyfz
 1
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -24537,6 +24994,7 @@ fqgszyfz
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 0
 nacdskwzfyieymghmke
 63
 chave nao encontrada: 22
@@ -24564,6 +25022,7 @@ chave nao encontrada: 22
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 1
 sme
 4
 chave nao encontrada: 24
@@ -24603,6 +25062,7 @@ chave nao encontrada: 26
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 10
 gkkbxolcqzqtkuypqug
 31
 6.5
@@ -24618,11 +25078,14 @@ gkkbxolcqzqtkuypqug
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 20
 trwnqhlhcwqnwnmue
 6
 6.5
+chave: 18
 yznzrmdkr
 63
+chave: 2
 qmbmukiodzfodjdqc
 61
 chave nao encontrada: 26
@@ -24711,6 +25174,7 @@ chave nao encontrada: 24
 10: 1 sme 4
 6.0
 6.0
+chave: 11
 uwzcrzkgaacosb
 65
 6.0
@@ -24732,6 +25196,7 @@ chave nao encontrada: 26
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 1
 sme
 4
 chave nao encontrada: 0
@@ -24873,6 +25338,7 @@ chave ja existente: 19
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
 6.5
+chave: 23
 liixxy
 68
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -24901,6 +25367,7 @@ chave ja existente: 15
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
 chave ja existente: 10
+chave: 15
 icdsizryvq
 40
 chave nao encontrada: 0
@@ -24980,6 +25447,7 @@ chave nao encontrada: 29
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 2
 qmbmukiodzfodjdqc
 61
 chave ja existente: 15
@@ -24998,6 +25466,7 @@ chave nao encontrada: 7
 chave nao encontrada: 16
 chave ja existente: 23
 6.5
+chave: 3
 fqgszyfz
 1
 6.5
@@ -25005,10 +25474,13 @@ fqgszyfz
 chave nao encontrada: 13
 6.5
 6.5
+chave: 2
 qmbmukiodzfodjdqc
 61
+chave: 11
 uwzcrzkgaacosb
 65
+chave: 14
 rpyfornicbgzwltng
 17
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -25039,6 +25511,7 @@ chave ja existente: 19
 chave ja existente: 25
 6.8
 6.7
+chave: 11
 uwzcrzkgaacosb
 65
 chave nao encontrada: 20
@@ -25094,6 +25567,7 @@ chave ja existente: 17
 8: 3 fqgszyfz 1
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
+chave: 3
 fqgszyfz
 1
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -25116,6 +25590,7 @@ chave nao encontrada: 30
 5.9
 chave nao encontrada: 4
 5.9
+chave: 10
 gkkbxolcqzqtkuypqug
 31
 chave nao encontrada: 16
@@ -25157,6 +25632,7 @@ chave nao encontrada: 7
 9: 2 qmbmukiodzfodjdqc 61
 10: 1 sme 4
 5.8
+chave: 11
 uwzcrzkgaacosb
 65
 5.8
@@ -25171,6 +25647,7 @@ chave ja existente: 2
 chave nao encontrada: 23
 5.6
 chave nao encontrada: 9
+chave: 1
 sme
 4
 chave nao encontrada: 7
@@ -25197,6 +25674,7 @@ chave nao encontrada: 4
 8: 3 fqgszyfz 1
 9: vazio
 10: 1 sme 4
+chave: 19
 vqvlalxcxajw
 48
 chave nao encontrada: 4
@@ -25226,11 +25704,13 @@ chave nao encontrada: 16
 5.3
 5.3
 5.3
+chave: 13
 ltrc
 3
 chave ja existente: 13
 chave nao encontrada: 12
 chave nao encontrada: 2
+chave: 14
 rpyfornicbgzwltng
 17
 5.4
@@ -25262,6 +25742,7 @@ chave nao encontrada: 9
 chave nao encontrada: 25
 chave nao encontrada: 4
 chave nao encontrada: 15
+chave: 8
 koyleyhqnzklwrsqkfq
 39
 chave nao encontrada: 9
@@ -25405,6 +25886,7 @@ chave ja existente: 14
 10: 24 putwfnowlfjwqhv 18
 5.0
 5.0
+chave: 8
 koyleyhqnzklwrsqkfq
 39
 chave nao encontrada: 22
@@ -25435,6 +25917,7 @@ chave ja existente: 19
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
 5.0
+chave: 18
 zgdbhtue
 10
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -25488,9 +25971,11 @@ chave nao encontrada: 15
 8: 3 fqgszyfz 1
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
+chave: 20
 ynqjnadpftckvvubks
 14
 chave ja existente: 8
+chave: 6
 deuvqicyrcwj
 41
 chave nao encontrada: 16
@@ -25548,6 +26033,7 @@ chave nao encontrada: 29
 8: 3 fqgszyfz 1
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
+chave: 20
 ynqjnadpftckvvubks
 14
 chave nao encontrada: 2
@@ -25611,6 +26097,7 @@ chave nao encontrada: 27
 10: 24 putwfnowlfjwqhv 18
 chave nao encontrada: 9
 chave ja existente: 6
+chave: 30
 xtnfwthsyjhuyrh
 14
 4.5
@@ -25627,6 +26114,7 @@ chave ja existente: 8
 8: 3 fqgszyfz 1
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
+chave: 3
 fqgszyfz
 1
 4.5
@@ -25670,6 +26158,7 @@ chave nao encontrada: 23
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
 chave nao encontrada: 1
+chave: 10
 gkkbxolcqzqtkuypqug
 31
 chave nao encontrada: 13
@@ -25724,6 +26213,7 @@ chave nao encontrada: 27
 8: 3 fqgszyfz 1
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
+chave: 20
 ynqjnadpftckvvubks
 14
 0: 10 gkkbxolcqzqtkuypqug 31
@@ -25750,6 +26240,7 @@ chave nao encontrada: 17
 8: 3 fqgszyfz 1
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
+chave: 3
 fqgszyfz
 1
 5.0
@@ -25757,6 +26248,7 @@ fqgszyfz
 5.1
 chave ja existente: 24
 chave nao encontrada: 9
+chave: 3
 fqgszyfz
 1
 chave nao encontrada: 22
@@ -25768,6 +26260,7 @@ chave nao encontrada: 18
 5.1
 chave ja existente: 30
 chave ja existente: 8
+chave: 19
 vqvlalxcxajw
 48
 0: 17 idxspnsgsejvzzqgun 31
@@ -25815,9 +26308,11 @@ vqvlalxcxajw
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 24 putwfnowlfjwqhv 18
 chave nao encontrada: 13
+chave: 15
 hyyjaxl
 27
 chave nao encontrada: 28
+chave: 17
 idxspnsgsejvzzqgun
 31
 chave nao encontrada: 1
@@ -25927,6 +26422,7 @@ chave nao encontrada: 18
 8: 3 fqgszyfz 1
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 27 pdzfsukby 11
+chave: 20
 ynqjnadpftckvvubks
 14
 5.5
@@ -25958,6 +26454,7 @@ chave nao encontrada: 0
 10: 27 pdzfsukby 11
 5.5
 5.5
+chave: 6
 deuvqicyrcwj
 41
 chave nao encontrada: 25
@@ -26164,6 +26661,7 @@ chave ja existente: 6
 9: 8 koyleyhqnzklwrsqkfq 39
 10: 27 pdzfsukby 11
 5.6
+chave: 6
 deuvqicyrcwj
 41
 5.6
@@ -26181,8 +26679,10 @@ deuvqicyrcwj
 chave nao encontrada: 25
 5.9
 5.9
+chave: 3
 jcqq
 1
+chave: 30
 xtnfwthsyjhuyrh
 14
 chave ja existente: 8
@@ -26277,6 +26777,7 @@ chave nao encontrada: 11
 8: 29 yespzlysenkveubvbi 46
 9: 8 koyleyhqnzklwrsqkfq 39
 10: vazio
+chave: 3
 jcqq
 1
 chave ja existente: 8
@@ -26307,6 +26808,7 @@ chave nao encontrada: 17
 10: vazio
 chave nao encontrada: 24
 chave nao encontrada: 12
+chave: 19
 vqvlalxcxajw
 48
 0: 3 jcqq 1
@@ -26393,10 +26895,12 @@ chave nao encontrada: 25
 8: 29 yespzlysenkveubvbi 46
 9: 13 megqsiw 56
 10: 17 dwffsbvceli 8
+chave: 29
 yespzlysenkveubvbi
 46
 chave nao encontrada: 25
 chave nao encontrada: 25
+chave: 14
 oeqcyfjabpetcjrgyvur
 16
 0: 3 jcqq 1
@@ -26410,6 +26914,7 @@ oeqcyfjabpetcjrgyvur
 8: 29 yespzlysenkveubvbi 46
 9: 13 megqsiw 56
 10: 17 dwffsbvceli 8
+chave: 26
 b
 41
 chave nao encontrada: 24
@@ -26437,6 +26942,7 @@ chave nao encontrada: 24
 8: 29 yespzlysenkveubvbi 46
 9: 13 megqsiw 56
 10: 17 dwffsbvceli 8
+chave: 3
 jcqq
 1
 chave ja existente: 17
@@ -26532,6 +27038,7 @@ chave ja existente: 29
 8: 29 yespzlysenkveubvbi 46
 9: 13 megqsiw 56
 10: 17 dwffsbvceli 8
+chave: 15
 hyyjaxl
 27
 6.3
@@ -26549,13 +27056,16 @@ chave ja existente: 20
 8: 29 yespzlysenkveubvbi 46
 9: 13 megqsiw 56
 10: 17 dwffsbvceli 8
+chave: 20
 ynqjnadpftckvvubks
 14
 6.3
 chave nao encontrada: 5
+chave: 19
 vqvlalxcxajw
 48
 6.3
+chave: 26
 b
 41
 6.3
@@ -26693,6 +27203,7 @@ chave nao encontrada: 24
 9: 13 megqsiw 56
 10: vazio
 chave nao encontrada: 11
+chave: 20
 ynqjnadpftckvvubks
 14
 0: 3 jcqq 1
@@ -26706,6 +27217,7 @@ ynqjnadpftckvvubks
 8: 29 yespzlysenkveubvbi 46
 9: 13 megqsiw 56
 10: 17 fxpvxolpv 10
+chave: 26
 b
 41
 0: 3 jcqq 1
@@ -26732,6 +27244,7 @@ b
 10: 17 fxpvxolpv 10
 chave ja existente: 20
 chave nao encontrada: 24
+chave: 0
 inu
 58
 0: 3 jcqq 1
@@ -26895,6 +27408,7 @@ chave nao encontrada: 6
 8: 24 qpdajhitkgwgvwqnvngy 52
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
+chave: 0
 inu
 58
 4.7
@@ -26935,12 +27449,14 @@ chave nao encontrada: 1
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
 chave nao encontrada: 7
+chave: 17
 fxpvxolpv
 10
 4.7
 4.7
 4.7
 4.7
+chave: 17
 fxpvxolpv
 10
 0: 3 jcqq 1
@@ -27021,6 +27537,7 @@ chave ja existente: 28
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
 4.7
+chave: 26
 b
 41
 4.7
@@ -27066,6 +27583,7 @@ chave ja existente: 16
 4.3
 chave nao encontrada: 30
 4.3
+chave: 24
 qpdajhitkgwgvwqnvngy
 52
 0: 23 buretuwqobrdyoy 43
@@ -27123,6 +27641,7 @@ chave nao encontrada: 3
 10: 17 fxpvxolpv 10
 chave nao encontrada: 1
 4.5
+chave: 17
 fxpvxolpv
 10
 0: 23 buretuwqobrdyoy 43
@@ -27166,6 +27685,7 @@ chave ja existente: 20
 chave nao encontrada: 7
 4.5
 chave ja existente: 23
+chave: 11
 tm
 42
 0: 23 buretuwqobrdyoy 43
@@ -27201,6 +27721,7 @@ tm
 8: 24 qpdajhitkgwgvwqnvngy 52
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
+chave: 2
 djkq
 68
 4.5
@@ -27222,10 +27743,12 @@ chave ja existente: 11
 8: 24 qpdajhitkgwgvwqnvngy 52
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
+chave: 26
 b
 41
 4.5
 4.5
+chave: 11
 tm
 42
 0: 23 buretuwqobrdyoy 43
@@ -27344,6 +27867,7 @@ chave nao encontrada: 7
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
 4.6
+chave: 11
 tm
 42
 0: 23 buretuwqobrdyoy 43
@@ -27382,6 +27906,7 @@ chave nao encontrada: 22
 8: 24 qpdajhitkgwgvwqnvngy 52
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
+chave: 24
 qpdajhitkgwgvwqnvngy
 52
 3.9
@@ -27399,6 +27924,7 @@ qpdajhitkgwgvwqnvngy
 3.9
 chave nao encontrada: 4
 3.9
+chave: 28
 pgxdjjuzjgx
 1
 3.9
@@ -27491,6 +28017,7 @@ chave nao encontrada: 21
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
 chave nao encontrada: 13
+chave: 20
 ynqjnadpftckvvubks
 14
 0: 23 buretuwqobrdyoy 43
@@ -27589,6 +28116,7 @@ chave nao encontrada: 6
 8: 10 lc 26
 9: 28 pgxdjjuzjgx 1
 10: 17 fxpvxolpv 10
+chave: 2
 djkq
 68
 0: 23 buretuwqobrdyoy 43
@@ -27617,9 +28145,11 @@ djkq
 10: 17 fxpvxolpv 10
 chave nao encontrada: 1
 chave nao encontrada: 4
+chave: 17
 fxpvxolpv
 10
 chave ja existente: 0
+chave: 17
 fxpvxolpv
 10
 0: 23 buretuwqobrdyoy 43
@@ -27762,6 +28292,7 @@ chave nao encontrada: 18
 chave nao encontrada: 25
 chave nao encontrada: 14
 chave nao encontrada: 4
+chave: 22
 gklkrkysxqlplf
 9
 chave ja existente: 0
@@ -27871,6 +28402,7 @@ chave nao encontrada: 1
 9: 7 l 5
 10: 17 fxpvxolpv 10
 5.1
+chave: 6
 hizzdoxnalhf
 38
 5.1
@@ -27897,6 +28429,7 @@ hizzdoxnalhf
 8: 10 lc 26
 9: 7 l 5
 10: vazio
+chave: 24
 pmqkwowszcob
 21
 chave nao encontrada: 3
@@ -27935,6 +28468,7 @@ chave nao encontrada: 3
 8: 10 lc 26
 9: 7 l 5
 10: vazio
+chave: 2
 djkq
 68
 chave nao encontrada: 17
@@ -28010,6 +28544,7 @@ chave nao encontrada: 17
 chave ja existente: 2
 chave ja existente: 10
 chave nao encontrada: 21
+chave: 2
 djkq
 68
 0: 6 hizzdoxnalhf 38
@@ -28046,6 +28581,7 @@ chave ja existente: 22
 5.6
 chave ja existente: 24
 5.6
+chave: 2
 djkq
 68
 5.9
@@ -28135,6 +28671,7 @@ chave ja existente: 7
 5.6
 chave nao encontrada: 19
 chave nao encontrada: 8
+chave: 13
 wxrudverfqsex
 33
 chave nao encontrada: 30
@@ -28160,8 +28697,10 @@ chave nao encontrada: 30
 8: 10 lc 26
 9: 7 l 5
 10: 4 figsgblg 47
+chave: 20
 ynqjnadpftckvvubks
 14
+chave: 7
 l
 5
 0: 6 hizzdoxnalhf 38
@@ -28322,17 +28861,21 @@ chave nao encontrada: 4
 5.6
 5.6
 5.3
+chave: 15
 sebwhywxf
 18
 chave nao encontrada: 9
 5.3
+chave: 7
 l
 5
 chave nao encontrada: 23
 5.3
 5.3
+chave: 3
 qdfvroywopucnbu
 27
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: 27 cgtnyfyp 41
@@ -28434,6 +28977,7 @@ chave nao encontrada: 8
 8: 10 lc 26
 9: 7 l 5
 10: 19 mwxgnuwdawfsgpb 70
+chave: 15
 sebwhywxf
 18
 0: 27 cgtnyfyp 41
@@ -28504,6 +29048,7 @@ chave ja existente: 15
 8: 10 lc 26
 9: 7 l 5
 10: 19 mwxgnuwdawfsgpb 70
+chave: 27
 cgtnyfyp
 41
 chave nao encontrada: 11
@@ -28542,6 +29087,7 @@ chave nao encontrada: 9
 8: 26 ldlnbncpvap 58
 9: 7 l 5
 10: 19 mwxgnuwdawfsgpb 70
+chave: 2
 djkq
 68
 4.6
@@ -28709,6 +29255,7 @@ chave nao encontrada: 5
 8: 26 ldlnbncpvap 58
 9: 7 l 5
 10: 20 lgq 22
+chave: 22
 gklkrkysxqlplf
 9
 0: 27 cgtnyfyp 41
@@ -28824,6 +29371,7 @@ chave nao encontrada: 19
 10: vazio
 6.2
 6.2
+chave: 26
 ldlnbncpvap
 58
 6.2
@@ -28840,6 +29388,7 @@ chave nao encontrada: 9
 9: 7 l 5
 10: 5 ooqsnq 59
 6.5
+chave: 18
 pdrlslvfj
 0
 0: 28 gmuifr 70
@@ -28878,6 +29427,7 @@ pdrlslvfj
 10: 5 ooqsnq 59
 chave nao encontrada: 27
 chave nao encontrada: 27
+chave: 28
 gmuifr
 70
 0: 28 gmuifr 70
@@ -28959,6 +29509,7 @@ gmuifr
 9: 7 l 5
 10: 5 ooqsnq 59
 6.5
+chave: 26
 ldlnbncpvap
 58
 0: 28 gmuifr 70
@@ -29135,6 +29686,7 @@ chave nao encontrada: 21
 9: 7 l 5
 10: 5 ooqsnq 59
 chave nao encontrada: 23
+chave: 26
 ldlnbncpvap
 58
 chave nao encontrada: 14
@@ -29169,8 +29721,10 @@ chave nao encontrada: 9
 6.8
 6.8
 chave nao encontrada: 6
+chave: 3
 qdfvroywopucnbu
 27
+chave: 2
 vrr
 44
 6.8
@@ -29232,6 +29786,7 @@ chave nao encontrada: 20
 9: 7 l 5
 10: 5 ooqsnq 59
 6.8
+chave: 7
 l
 5
 6.8
@@ -29299,13 +29854,16 @@ chave nao encontrada: 19
 chave nao encontrada: 21
 chave ja existente: 17
 6.8
+chave: 2
 vrr
 44
 6.5
 chave nao encontrada: 12
+chave: 5
 ooqsnq
 59
 6.3
+chave: 16
 jyivzeagfpi
 41
 6.3
@@ -29338,6 +29896,7 @@ chave nao encontrada: 8
 8: 4 t 18
 9: 7 l 5
 10: 5 ooqsnq 59
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: 19 mvrheamxlman 48
@@ -29396,6 +29955,7 @@ chave nao encontrada: 12
 8: 4 t 18
 9: 7 l 5
 10: 5 ooqsnq 59
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 chave nao encontrada: 20
@@ -29564,6 +30124,7 @@ chave nao encontrada: 28
 10: 5 ooqsnq 59
 5.5
 chave ja existente: 19
+chave: 13
 wxrudverfqsex
 33
 0: 19 mvrheamxlman 48
@@ -29580,6 +30141,7 @@ wxrudverfqsex
 chave ja existente: 29
 5.5
 5.5
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: 19 mvrheamxlman 48
@@ -29629,8 +30191,10 @@ chave nao encontrada: 20
 8: 4 t 18
 9: 7 l 5
 10: 5 ooqsnq 59
+chave: 1
 fvsbxxskvr
 12
+chave: 4
 t
 18
 chave nao encontrada: 0
@@ -29650,13 +30214,16 @@ chave ja existente: 22
 chave nao encontrada: 18
 5.5
 chave ja existente: 13
+chave: 7
 l
 5
+chave: 19
 mvrheamxlman
 48
 5.5
 chave nao encontrada: 8
 5.5
+chave: 4
 t
 18
 0: 19 mvrheamxlman 48
@@ -29699,10 +30266,12 @@ chave nao encontrada: 18
 chave nao encontrada: 18
 chave ja existente: 7
 5.5
+chave: 19
 mvrheamxlman
 48
 5.5
 5.5
+chave: 4
 t
 18
 0: 19 mvrheamxlman 48
@@ -29728,6 +30297,7 @@ t
 9: 7 l 5
 10: 5 ooqsnq 59
 chave nao encontrada: 2
+chave: 17
 vvpuhfgohyhldrexxrc
 34
 5.5
@@ -29744,10 +30314,12 @@ chave nao encontrada: 20
 8: 4 t 18
 9: 7 l 5
 10: 5 ooqsnq 59
+chave: 5
 ooqsnq
 59
 5.9
 chave nao encontrada: 9
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: 19 mvrheamxlman 48
@@ -29822,6 +30394,7 @@ chave nao encontrada: 0
 10: 5 ooqsnq 59
 5.8
 chave nao encontrada: 12
+chave: 5
 ooqsnq
 59
 0: 19 mvrheamxlman 48
@@ -29859,6 +30432,7 @@ ooqsnq
 9: 7 l 5
 10: 5 ooqsnq 59
 5.8
+chave: 22
 gklkrkysxqlplf
 9
 chave nao encontrada: 23
@@ -30010,6 +30584,7 @@ chave nao encontrada: 14
 9: 7 l 5
 10: 5 ooqsnq 59
 chave ja existente: 1
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: 19 mvrheamxlman 48
@@ -30025,10 +30600,12 @@ wzirmvzxrogkrkgbznff
 10: 5 ooqsnq 59
 6.1
 chave ja existente: 17
+chave: 4
 t
 18
 6.1
 chave nao encontrada: 8
+chave: 13
 wxrudverfqsex
 33
 0: 19 mvrheamxlman 48
@@ -30042,6 +30619,7 @@ wxrudverfqsex
 8: 4 t 18
 9: 18 wfummvogttiyylm 24
 10: 5 ooqsnq 59
+chave: 18
 wfummvogttiyylm
 24
 5.8
@@ -30050,6 +30628,7 @@ chave nao encontrada: 14
 chave nao encontrada: 12
 chave ja existente: 13
 chave ja existente: 3
+chave: 1
 fvsbxxskvr
 12
 0: 19 mvrheamxlman 48
@@ -30129,6 +30708,7 @@ chave nao encontrada: 14
 chave nao encontrada: 28
 chave nao encontrada: 16
 chave nao encontrada: 24
+chave: 5
 ooqsnq
 59
 chave ja existente: 29
@@ -30181,6 +30761,7 @@ chave nao encontrada: 30
 10: 5 ooqsnq 59
 chave nao encontrada: 25
 chave nao encontrada: 28
+chave: 13
 wxrudverfqsex
 33
 0: 19 mvrheamxlman 48
@@ -30209,6 +30790,7 @@ chave nao encontrada: 28
 8: 4 t 18
 9: 18 wfummvogttiyylm 24
 10: 5 ooqsnq 59
+chave: 18
 wfummvogttiyylm
 24
 0: 19 mvrheamxlman 48
@@ -30318,6 +30900,7 @@ chave ja existente: 10
 8: 9 ay 36
 9: 18 wfummvogttiyylm 24
 10: 5 ooqsnq 59
+chave: 13
 wxrudverfqsex
 33
 0: 19 mvrheamxlman 48
@@ -30361,8 +30944,10 @@ chave nao encontrada: 23
 6.3
 6.3
 chave nao encontrada: 3
+chave: 13
 wxrudverfqsex
 33
+chave: 20
 ltulqsmcsqtihjpwp
 12
 0: 19 mvrheamxlman 48
@@ -30388,6 +30973,7 @@ ltulqsmcsqtihjpwp
 9: 18 wfummvogttiyylm 24
 10: 5 ooqsnq 59
 chave nao encontrada: 24
+chave: 5
 ooqsnq
 59
 6.3
@@ -30415,12 +31001,15 @@ ooqsnq
 9: 18 wfummvogttiyylm 24
 10: 5 ooqsnq 59
 chave nao encontrada: 25
+chave: 9
 ay
 36
 6.3
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 chave nao encontrada: 16
+chave: 9
 ay
 36
 chave nao encontrada: 30
@@ -30631,6 +31220,7 @@ chave nao encontrada: 1
 9: 18 wfummvogttiyylm 24
 10: vazio
 5.7
+chave: 10
 rzbszkoxdyrbswpjf
 70
 5.7
@@ -30781,6 +31371,7 @@ chave nao encontrada: 3
 6.1
 chave ja existente: 20
 6.1
+chave: 10
 rzbszkoxdyrbswpjf
 70
 chave nao encontrada: 5
@@ -30795,8 +31386,10 @@ chave nao encontrada: 5
 8: 4 ngpydq 1
 9: 18 wfummvogttiyylm 24
 10: 0 oyphwbfkyaldherixu 66
+chave: 13
 wxrudverfqsex
 33
+chave: 11
 ocuha
 60
 chave nao encontrada: 21
@@ -30815,6 +31408,7 @@ chave nao encontrada: 24
 8: 4 ngpydq 1
 9: 18 wfummvogttiyylm 24
 10: 0 oyphwbfkyaldherixu 66
+chave: 20
 ltulqsmcsqtihjpwp
 12
 chave nao encontrada: 26
@@ -30873,6 +31467,7 @@ chave nao encontrada: 30
 6.0
 chave nao encontrada: 28
 6.0
+chave: 11
 ocuha
 60
 6.1
@@ -30912,6 +31507,7 @@ ocuha
 5.6
 chave ja existente: 2
 5.6
+chave: 27
 nqjmtg
 61
 5.6
@@ -30955,6 +31551,7 @@ chave nao encontrada: 16
 5.2
 chave nao encontrada: 1
 chave nao encontrada: 25
+chave: 27
 nqjmtg
 61
 chave nao encontrada: 5
@@ -30987,9 +31584,11 @@ chave nao encontrada: 25
 chave nao encontrada: 30
 5.5
 5.5
+chave: 21
 gxp
 57
 chave nao encontrada: 22
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: 19 mvrheamxlman 48
@@ -31101,6 +31700,7 @@ chave ja existente: 7
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
 6.0
+chave: 18
 eifsthbppkwwc
 40
 6.0
@@ -31128,6 +31728,7 @@ chave nao encontrada: 16
 chave ja existente: 21
 chave nao encontrada: 20
 6.0
+chave: 17
 vvpuhfgohyhldrexxrc
 34
 0: 19 mvrheamxlman 48
@@ -31141,6 +31742,7 @@ vvpuhfgohyhldrexxrc
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
+chave: 18
 eifsthbppkwwc
 40
 0: 19 mvrheamxlman 48
@@ -31228,6 +31830,7 @@ chave nao encontrada: 5
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
 chave nao encontrada: 0
+chave: 7
 pronvwvs
 46
 chave nao encontrada: 8
@@ -31373,6 +31976,7 @@ chave ja existente: 17
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
 chave nao encontrada: 19
+chave: 14
 yciqbvutqshutt
 18
 5.7
@@ -31398,6 +32002,7 @@ yciqbvutqshutt
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
+chave: 18
 eifsthbppkwwc
 40
 5.7
@@ -31451,6 +32056,7 @@ chave nao encontrada: 5
 10: 6 meoeuppnqkzbufp 65
 5.7
 5.7
+chave: 17
 vvpuhfgohyhldrexxrc
 34
 0: 14 yciqbvutqshutt 18
@@ -31528,6 +32134,7 @@ chave ja existente: 21
 chave nao encontrada: 4
 chave nao encontrada: 13
 6.1
+chave: 14
 yciqbvutqshutt
 18
 chave nao encontrada: 26
@@ -31565,9 +32172,11 @@ chave nao encontrada: 26
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
 chave nao encontrada: 9
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 chave nao encontrada: 25
+chave: 27
 nqjmtg
 61
 6.1
@@ -31683,6 +32292,7 @@ chave nao encontrada: 5
 chave nao encontrada: 7
 5.0
 chave ja existente: 27
+chave: 14
 yciqbvutqshutt
 18
 0: 14 yciqbvutqshutt 18
@@ -31697,6 +32307,7 @@ yciqbvutqshutt
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
 chave nao encontrada: 0
+chave: 6
 meoeuppnqkzbufp
 65
 chave nao encontrada: 15
@@ -31782,8 +32393,10 @@ chave nao encontrada: 2
 9: 27 nqjmtg 61
 10: 6 meoeuppnqkzbufp 65
 4.7
+chave: 28
 prwsoonwqtwkkfevgoln
 61
+chave: 10
 kkzqqlm
 11
 4.7
@@ -32021,6 +32634,7 @@ chave ja existente: 10
 9: 5 etkpu 3
 10: 6 meoeuppnqkzbufp 65
 chave nao encontrada: 24
+chave: 3
 navbccavoldpeuikmlyk
 56
 chave nao encontrada: 0
@@ -32029,6 +32643,7 @@ chave nao encontrada: 0
 chave nao encontrada: 22
 5.6
 chave nao encontrada: 0
+chave: 28
 prwsoonwqtwkkfevgoln
 61
 0: 14 yciqbvutqshutt 18
@@ -32078,6 +32693,7 @@ chave nao encontrada: 27
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 5 etkpu 3
 10: 6 meoeuppnqkzbufp 65
+chave: 5
 etkpu
 3
 0: 14 yciqbvutqshutt 18
@@ -32415,15 +33031,18 @@ chave nao encontrada: 7
 5.4
 5.4
 5.4
+chave: 25
 wtcyaknclvvncvbdtt
 11
 5.4
 5.4
 5.4
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 5.4
 5.4
+chave: 3
 navbccavoldpeuikmlyk
 56
 0: 14 yciqbvutqshutt 18
@@ -32438,6 +33057,7 @@ navbccavoldpeuikmlyk
 9: 5 etkpu 3
 10: 6 meoeuppnqkzbufp 65
 chave ja existente: 14
+chave: 14
 yciqbvutqshutt
 18
 5.4
@@ -32452,6 +33072,7 @@ yciqbvutqshutt
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 5 etkpu 3
 10: 6 meoeuppnqkzbufp 65
+chave: 25
 wtcyaknclvvncvbdtt
 11
 chave nao encontrada: 19
@@ -32546,9 +33167,11 @@ chave nao encontrada: 10
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 5 etkpu 3
 10: 6 meoeuppnqkzbufp 65
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 5.4
+chave: 13
 pnggrzmgkqwbsgxhyqnp
 60
 0: 14 yciqbvutqshutt 18
@@ -32587,6 +33210,7 @@ pnggrzmgkqwbsgxhyqnp
 9: vazio
 10: 6 meoeuppnqkzbufp 65
 chave nao encontrada: 27
+chave: 4
 nzxjcrbwpq
 15
 chave ja existente: 26
@@ -32710,11 +33334,14 @@ chave ja existente: 28
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 2 isw 30
 10: 6 meoeuppnqkzbufp 65
+chave: 26
 xmafocgmrco
 46
 6.7
+chave: 3
 navbccavoldpeuikmlyk
 56
+chave: 19
 oxbeej
 57
 0: 14 yciqbvutqshutt 18
@@ -32801,6 +33428,7 @@ chave nao encontrada: 30
 10: vazio
 chave nao encontrada: 5
 7.2
+chave: 26
 xmafocgmrco
 46
 0: 14 yciqbvutqshutt 18
@@ -32837,6 +33465,7 @@ xmafocgmrco
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 2 isw 30
 10: vazio
+chave: 19
 oxbeej
 57
 7.2
@@ -32914,6 +33543,7 @@ chave ja existente: 2
 chave nao encontrada: 21
 chave ja existente: 30
 6.6
+chave: 29
 wzirmvzxrogkrkgbznff
 59
 0: vazio
@@ -32938,6 +33568,7 @@ wzirmvzxrogkrkgbznff
 8: 28 prwsoonwqtwkkfevgoln 61
 9: 2 isw 30
 10: 20 szlzeujxedtwnmrzl 14
+chave: 25
 wtcyaknclvvncvbdtt
 11
 0: vazio
@@ -33017,6 +33648,7 @@ chave nao encontrada: 17
 8: vazio
 9: 2 isw 30
 10: 20 szlzeujxedtwnmrzl 14
+chave: 19
 oxbeej
 57
 0: 7 vigplofhznkvjwjuvt 0
@@ -33156,6 +33788,7 @@ chave nao encontrada: 25
 9: 2 isw 30
 10: 12 lwyvlbinkxbubr 10
 chave ja existente: 12
+chave: 7
 vigplofhznkvjwjuvt
 0
 0: 7 vigplofhznkvjwjuvt 0
@@ -33276,6 +33909,7 @@ chave nao encontrada: 8
 8: 15 hfuscx 10
 9: 2 isw 30
 10: 12 lwyvlbinkxbubr 10
+chave: 24
 sm
 19
 6.7
@@ -33297,6 +33931,7 @@ chave ja existente: 3
 9: 2 isw 30
 10: 12 lwyvlbinkxbubr 10
 6.7
+chave: 16
 lcbumpxasjhps
 8
 0: 7 vigplofhznkvjwjuvt 0
@@ -33357,6 +33992,7 @@ chave ja existente: 2
 9: 2 isw 30
 10: 12 lwyvlbinkxbubr 10
 6.4
+chave: 2
 isw
 30
 chave ja existente: 12
@@ -33454,6 +34090,7 @@ chave nao encontrada: 22
 7.4
 7.4
 7.4
+chave: 3
 vgpfngbyizmchvkdzdz
 38
 0: 7 vigplofhznkvjwjuvt 0
@@ -33491,6 +34128,7 @@ vgpfngbyizmchvkdzdz
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
 chave nao encontrada: 23
+chave: 19
 oxbeej
 57
 7.7
@@ -33521,11 +34159,13 @@ chave nao encontrada: 1
 8: 11 ibtqfqeqscjxxeqrudmg 53
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
+chave: 9
 osbqnqpojikgcazd
 28
 chave nao encontrada: 29
 8.1
 chave nao encontrada: 6
+chave: 3
 vgpfngbyizmchvkdzdz
 38
 8.1
@@ -33560,6 +34200,7 @@ chave nao encontrada: 4
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
 7.9
+chave: 22
 a
 22
 0: 7 vigplofhznkvjwjuvt 0
@@ -33574,6 +34215,7 @@ a
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
 chave nao encontrada: 1
+chave: 19
 oxbeej
 57
 chave nao encontrada: 0
@@ -33679,6 +34321,7 @@ chave nao encontrada: 0
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
 6.9
+chave: 24
 sm
 19
 6.9
@@ -33694,8 +34337,10 @@ sm
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
 6.9
+chave: 3
 vgpfngbyizmchvkdzdz
 38
+chave: 9
 osbqnqpojikgcazd
 28
 0: 7 vigplofhznkvjwjuvt 0
@@ -33736,12 +34381,15 @@ chave nao encontrada: 18
 8: 11 ibtqfqeqscjxxeqrudmg 53
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
+chave: 3
 vgpfngbyizmchvkdzdz
 38
+chave: 11
 ibtqfqeqscjxxeqrudmg
 53
 chave nao encontrada: 0
 chave ja existente: 12
+chave: 24
 sm
 19
 0: 7 vigplofhznkvjwjuvt 0
@@ -33769,6 +34417,7 @@ chave nao encontrada: 4
 8: 11 ibtqfqeqscjxxeqrudmg 53
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
+chave: 11
 ibtqfqeqscjxxeqrudmg
 53
 0: 7 vigplofhznkvjwjuvt 0
@@ -33827,6 +34476,7 @@ chave ja existente: 7
 8: 11 ibtqfqeqscjxxeqrudmg 53
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
+chave: 9
 osbqnqpojikgcazd
 28
 0: 7 vigplofhznkvjwjuvt 0
@@ -33872,6 +34522,7 @@ chave nao encontrada: 25
 9: 22 a 22
 10: 12 lwyvlbinkxbubr 10
 7.2
+chave: 9
 osbqnqpojikgcazd
 28
 0: 7 vigplofhznkvjwjuvt 0
@@ -33998,6 +34649,7 @@ chave nao encontrada: 17
 10: 12 lwyvlbinkxbubr 10
 chave nao encontrada: 20
 7.1
+chave: 6
 xfluvsf
 13
 0: 5 cgnhdorp 61
@@ -34229,6 +34881,7 @@ chave nao encontrada: 13
 8: 11 ibtqfqeqscjxxeqrudmg 53
 9: 14 npojopcqmznttbsfilcy 40
 10: 12 lwyvlbinkxbubr 10
+chave: 22
 tlmobmagknwebykr
 42
 7.7
